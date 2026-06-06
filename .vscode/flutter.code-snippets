@@ -1,0 +1,37 @@
+{
+  "Stateless Widget": {
+    "scope": "dart",
+    "prefix": "stless",
+    "body": [
+      "class ${1:MyWidget} extends StatelessWidget {",
+      "\tconst ${1:MyWidget}({super.key});",
+      "",
+      "\t@override",
+      "\tWidget build(BuildContext context) {",
+      "\t\treturn $2;",
+      "\t}",
+      "}",
+    ],
+    "description": "Stateless Widget",
+  },
+  "Stateful Widget": {
+    "scope": "dart",
+    "prefix": "stful",
+    "body": [
+      "class ${1:MyWidget} extends StatefulWidget {",
+      "\tconst ${1:MyWidget}({super.key});",
+      "",
+      "\t@override",
+      "\tState<${1:MyWidget}> createState() => _${1:MyWidget}State();",
+      "}",
+      "",
+      "class _${1:MyWidget}State extends State<${1:MyWidget}> {",
+      "\t@override",
+      "\tWidget build(BuildContext context) {",
+      "\t\treturn $2;",
+      "\t}",
+      "}",
+    ],
+    "description": "Stateful Widget",
+  },
+}

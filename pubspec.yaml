@@ -1,0 +1,48 @@
+name: pimankagom
+description: "Ⲡⲓⲙⲁⲛ̀ⲕⲁϫⲱⲙ — Pimaenkagom, pimankagom"
+publish_to: "none"
+version: 1.0.0+2
+
+environment:
+  sdk: ^3.11.5
+
+dependencies:
+  flutter:
+    sdk: flutter
+
+  cupertino_icons: ^1.0.8
+  flutter_riverpod: ^3.3.1
+  flutter_secure_storage: ^10.3.0
+  collection: ^1.19.1
+
+dev_dependencies:
+  flutter_test:
+    sdk: flutter
+
+  flutter_lints: ^6.0.0
+  mocktail: ^1.0.4
+
+flutter:
+  uses-material-design: true
+
+  fonts:
+    - family: Athanasius
+      fonts:
+        - asset: assets/fonts/athanasius/FreeSerifAthanasius.ttf
+
+    - family: Garamond
+      fonts:
+        - asset: assets/fonts/garamond/EBGaramond-VariableFont_wght.ttf
+        - asset: assets/fonts/garamond/EBGaramond-Italic-VariableFont_wght.ttf
+          style: italic
+
+    - family: Scheherazade
+      fonts:
+        - asset: assets/fonts/scheherazade/ScheherazadeNew-Regular.ttf
+          weight: 400
+        - asset: assets/fonts/scheherazade/ScheherazadeNew-Medium.ttf
+          weight: 500
+        - asset: assets/fonts/scheherazade/ScheherazadeNew-SemiBold.ttf
+          weight: 600
+        - asset: assets/fonts/scheherazade/ScheherazadeNew-Bold.ttf
+          weight: 700
