@@ -21,6 +21,16 @@ dev_dependencies:
 
   flutter_lints: ^6.0.0
   mocktail: ^1.0.4
+  msix: ^3.16.8
+
+msix_config:
+  display_name: Ⲡⲓⲙⲁⲛ̀ⲕⲁϫⲱⲙ
+  publisher_display_name: mbadres
+  identity_name: mbadres.pimankagom
+  publisher: CN=B41A0BF9-8971-41F2-89E5-32CEA4F83C9F
+  logo_path: assets\images\icon256.jpg
+  msix_version: 1.0.0.0
+  store: true
 
 flutter:
   uses-material-design: true
