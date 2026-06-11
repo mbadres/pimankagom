@@ -1,1 +1,1 @@
-const List<String> languages = ['coptic', 'arabic', 'english', 'german'];
+const languages = ['coptic', 'arabic', 'english', 'german'];

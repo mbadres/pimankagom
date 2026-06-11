@@ -1,6 +1,6 @@
 import 'package:flutter/material.dart';
 import 'package:flutter_riverpod/flutter_riverpod.dart';
-import 'package:pimankagom/app.dart';
+import 'package:pimankagom/ui/app/app.dart';
 
 void main() {
   runApp(ProviderScope(child: const App()));

@@ -2,7 +2,7 @@ import 'package:flutter/material.dart';
 import 'package:pimankagom/models/contents/multilingual_text.dart';
 import 'package:pimankagom/models/core/node.dart';
 import 'package:pimankagom/ui/contents/multilingual_text/widgets/unilingual_text_widget.dart';
-import 'package:pimankagom/ui/nodes/paragraph_node.dart';
+import 'package:pimankagom/ui/nodes/paragraph.dart';
 
 class NavigatedSlides extends StatefulWidget {
   final Node node;
@@ -79,7 +79,7 @@ class _NavigatedSlidesState extends State<NavigatedSlides> {
                   padding: const EdgeInsets.only(bottom: 12),
                   child: UnilingualTextWidget(multilingualText: section.value as MultilingualText),
                 ),
-                ...paragraphs.map((paragraph) => ParagraphNode(node: paragraph)),
+                ...paragraphs.map((paragraph) => Paragraph(node: paragraph)),
               ],
             ),
           );

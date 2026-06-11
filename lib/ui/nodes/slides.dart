@@ -2,7 +2,7 @@ import 'package:flutter/material.dart';
 import 'package:pimankagom/models/contents/multilingual_text.dart';
 import 'package:pimankagom/models/core/node.dart';
 import 'package:pimankagom/ui/contents/multilingual_text/widgets/unilingual_text_widget.dart';
-import 'package:pimankagom/ui/nodes/paragraph_node.dart';
+import 'package:pimankagom/ui/nodes/paragraph.dart';
 
 class Slides extends StatefulWidget {
   final Node node;
@@ -68,7 +68,7 @@ class _SlidesState extends State<Slides> {
         itemCount: paragraphs.length,
         itemBuilder: (context, index) => SingleChildScrollView(
           padding: const EdgeInsets.all(16),
-          child: ParagraphNode(node: paragraphs[index]),
+          child: Paragraph(node: paragraphs[index]),
         ),
       ),
     );

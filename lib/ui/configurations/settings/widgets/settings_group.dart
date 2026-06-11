@@ -14,7 +14,7 @@ class SettingsGroup extends StatelessWidget {
     return Column(
       crossAxisAlignment: CrossAxisAlignment.start,
       children: [
-        Text(category, style: Theme.of(context).textTheme.headlineMedium),
+        Text(category, style: Theme.of(context).textTheme.titleLarge),
         ...settings.map((setting) => Setting(setting: setting)),
       ],
     );

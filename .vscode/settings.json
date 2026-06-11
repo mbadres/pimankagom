@@ -10,6 +10,7 @@
     "editor.wordBasedSuggestions": "off"
   },
   "dart.flutterSdkPath": null,
+  "dart.flutterHotReloadOnSave": "all",
   "dart.lineLength": 100,
   "dart.previewFlutterUiGuides": true,
   "dart.previewFlutterUiGuidesCustomTracking": true,
