@@ -1,5 +1,5 @@
 import 'package:flutter/material.dart';
-import 'package:pimankagom/themes/basic_theme.dart';
+import 'package:pimankagom/themes/basic/basic_theme.dart';
 
 const Color _highContrastBlack = Color(0xFF000000);
 const Color _highContrastWhite = Color(0xFFFFFFFF);
@@ -7,7 +7,7 @@ const Color _highContrastBlue = Color(0xFF0000FF);
 const Color _highContrastRed = Color(0xFFFF0000);
 const Color _highContrastYellow = Color(0xFFFFFF00);
 
-final ThemeData contrastModeLightTheme = basicLightTheme.copyWith(
+final ThemeData contrastLightTheme = basicLightTheme.copyWith(
   brightness: Brightness.light,
 
   // Color scheme with maximum contrast
@@ -142,7 +142,7 @@ final ThemeData contrastModeLightTheme = basicLightTheme.copyWith(
   ),
 );
 
-final contrastModeDarkTheme = basicDarkTheme.copyWith(
+final contrastDarkTheme = basicDarkTheme.copyWith(
   brightness: Brightness.dark,
 
   // Color scheme with maximum contrast (inverted)
