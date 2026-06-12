@@ -46,11 +46,14 @@ final ColorScheme palimpsestColorScheme = ColorScheme(
   brightness: Brightness.light,
   // surfaces
   surface: _parchment,
+  surfaceDim: _parchment2,
+  surfaceBright: _parchmentSoft,
   surfaceContainerLowest: _parchmentSoft,
   surfaceContainerLow: _parchment2,
   surfaceContainer: _butterMid,
   surfaceContainerHigh: _butterWarm,
   surfaceContainerHighest: _butterDeep,
+  surfaceTint: _parchment,
   onSurface: _ink,
   onSurfaceVariant: _inkSoft,
 
@@ -59,18 +62,30 @@ final ColorScheme palimpsestColorScheme = ColorScheme(
   onPrimary: _parchment,
   primaryContainer: _bordeaux50,
   onPrimaryContainer: _oxblood,
+  primaryFixed: _bordeaux50,
+  primaryFixedDim: _bordeaux200,
+  onPrimaryFixed: _garnet,
+  onPrimaryFixedVariant: _oxblood,
 
   // secondary — sage / olive
   secondary: _sage,
   onSecondary: _parchment,
   secondaryContainer: _sage100,
   onSecondaryContainer: _oliveDeep,
+  secondaryFixed: _sage100,
+  secondaryFixedDim: _sage200,
+  onSecondaryFixed: _ink,
+  onSecondaryFixedVariant: _oliveDeep,
 
   // tertiary — gold
   tertiary: _gold,
   onTertiary: _parchment,
   tertiaryContainer: _goldLight,
   onTertiaryContainer: _goldDeep,
+  tertiaryFixed: _goldLight,
+  tertiaryFixedDim: _goldSoft,
+  onTertiaryFixed: _goldDeep,
+  onTertiaryFixedVariant: _gold,
 
   // error
   error: _scarlet,
