@@ -45,7 +45,7 @@ const _goldDeep = Color(0xFF6B4C1A); // interpolated
 // Misc
 const _black = Color(0xFF000000);
 
-final ColorScheme palimpsestColorScheme = ColorScheme(
+const ColorScheme palimpsestColorScheme = ColorScheme(
   brightness: Brightness.light,
   // surfaces
   surface: _parchment,
