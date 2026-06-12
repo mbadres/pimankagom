@@ -1,46 +1,49 @@
 import 'package:flutter/material.dart';
 
-const _butter = Color(0xFFF3DE9C);
-const _butterDeep = Color(0xFFE7CD7C);
-const _ink = Color(0xFF2C2418);
-const _inkSoft = Color(0xFF5C5341);
-const _inkFaint = Color(0xFF8A7E66);
-const _rule = Color(0xFFD8C99B);
-const _goldSoft = Color(0xFFD8B25E);
-const _gold = Color(0xFFB4863A);
+// Surface scale
+const _parchmentSoft = Color(0xFFFFFDF5); // interpolated
+const _parchment = Color(0xFFFBF4DE); // --parchment
+const _parchment2 = Color(0xFFF6EBC9); // --parchment-2
+const _butterMid = Color(0xFFF0E2B8); // interpolated
+const _butter = Color(0xFFF3DE9C); // --butter
+const _butterWarm = Color(0xFFEDD9A8); // interpolated
+const _butterDeep = Color(0xFFE7CD7C); // --butter-deep
+
+// Sage scale
+const _sage100 = Color(0xFFEDE7C4);
+const _sage200 = Color(0xFFD8D3A4);
+const _sageSoft = Color(0xFFB7B488); // --sage-soft
+const _sage = Color(0xFF8C8C58); // --sage
+const _oliveDeep = Color(0xFF5E5E38); // --olive-deep
 
 // Bordeaux scale
 const _bordeaux50 = Color(0xFFF0DADC);
 const _bordeaux200 = Color(0xFFD9A7AB);
 const _bordeaux400 = Color(0xFFB66A6F);
-const _bordeauxTint = Color(0xFF9C4A4E);
-const _bordeaux = Color(0xFF7C2A33);
-const _oxblood = Color(0xFF561C24);
+const _bordeauxTint = Color(0xFF9C4A4E); // --bordeaux-tint
+const _bordeaux = Color(0xFF7C2A33); // --bordeaux
+const _oxblood = Color(0xFF561C24); // --oxblood
 
-// Sage / Parchment scale
-const _parchment = Color(0xFFFBF4DE);
-const _parchment2 = Color(0xFFF6EBC9);
-const _sage100 = Color(0xFFEDE7C4);
-const _sage200 = Color(0xFFD8D3A4);
-const _sageSoft = Color(0xFFB7B488);
-const _sage = Color(0xFF8C8C58);
-const _oliveDeep = Color(0xFF5E5E38);
+// Ink scale
+const _ink = Color(0xFF2C2418); // --ink
+const _inkSoft = Color(0xFF5C5341); // --ink-soft
+const _inkFaint = Color(0xFF8A7E66); // --ink-faint
+const _rule = Color(0xFFD8C99B); // --rule
 
-// Error (Material defaults)
+// Error
 const _scarlet = Color(0xFFB3261E);
 const _white = Color(0xFFFFFFFF);
 const _blush = Color(0xFFF9DEDC);
 const _garnet = Color(0xFF410E0B);
 
+// Gold scale
+const _goldLight = Color(0xFFF5EAD0); // interpolated
+const _goldSoft = Color(0xFFD8B25E); // --gold-soft
+const _gold = Color(0xFFB4863A); // --gold
+const _goldDeep = Color(0xFF6B4C1A); // interpolated
+
 // Misc
 const _black = Color(0xFF000000);
-
-// Interpolated (not in style guide, needed for Material surface hierarchy)
-const _parchmentSoft = Color(0xFFFFFDF5);
-const _butterMid = Color(0xFFF0E2B8);
-const _butterWarm = Color(0xFFEDD9A8);
-const _goldLight = Color(0xFFF5EAD0);
-const _goldDeep = Color(0xFF6B4C1A);
 
 final ColorScheme palimpsestColorScheme = ColorScheme(
   brightness: Brightness.light,
