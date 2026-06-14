@@ -7,7 +7,7 @@ final _heading = TextStyle(
   fontFamily: 'Garamond',
   fontWeight: FontWeight.w600,
   height: 1.08,
-  color: palimpsestColorScheme.onPrimaryContainer,
+  color: palimpsestColorScheme.primary,
 );
 
 final _body = TextStyle(
@@ -19,7 +19,7 @@ final _body = TextStyle(
 final _label = TextStyle(
   fontFamily: 'Garamond',
   fontWeight: FontWeight.w500,
-  color: palimpsestColorScheme.secondary,
+  color: palimpsestColorScheme.onSecondaryContainer,
   fontFeatures: [FontFeature.enable('smcp')],
 );
 
@@ -29,12 +29,12 @@ final palimpsestTextTheme = TextTheme(
   displaySmall: _heading.copyWith(fontSize: 36),
   headlineLarge: _heading.copyWith(fontSize: 32, letterSpacing: -0.3),
   headlineMedium: _heading.copyWith(fontSize: 28, letterSpacing: -0.3),
-  headlineSmall: _heading.copyWith(fontSize: 24, color: palimpsestColorScheme.primary),
-  titleLarge: _label.copyWith(fontSize: 22, height: 1.5),
-  titleMedium: _label.copyWith(fontSize: 16),
+  headlineSmall: _heading.copyWith(fontSize: 24),
+  titleLarge: _label.copyWith(fontSize: 22, height: 1.5), // 22
+  titleMedium: _label.copyWith(fontSize: 20), // 16
   titleSmall: _label.copyWith(fontSize: 14),
   bodyLarge: _body.copyWith(fontSize: 18, height: 1.55),
-  bodyMedium: _body.copyWith(fontSize: 16, height: 1.5),
+  bodyMedium: _body.copyWith(fontSize: 18, height: 1.5), // 16
   bodySmall: _body.copyWith(fontSize: 12),
   labelLarge: _label.copyWith(fontSize: 14, letterSpacing: 1.0),
   labelMedium: _label.copyWith(fontSize: 12, letterSpacing: 3.1),

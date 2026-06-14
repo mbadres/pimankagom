@@ -55,7 +55,7 @@ const ColorScheme palimpsestColorScheme = ColorScheme(
   surfaceContainerLow: _parchment2,
   surfaceContainer: _butterMid,
   surfaceContainerHigh: _butterWarm,
-  surfaceContainerHighest: _butterDeep,
+  surfaceContainerHighest: _butter,
   surfaceTint: _parchment,
   onSurface: _ink,
   onSurfaceVariant: _inkSoft,

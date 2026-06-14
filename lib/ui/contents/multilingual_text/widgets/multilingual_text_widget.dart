@@ -1,8 +1,8 @@
 import 'package:flutter/material.dart';
 import 'package:flutter_riverpod/flutter_riverpod.dart';
 import 'package:pimankagom/models/contents/multilingual_text.dart';
-import 'package:pimankagom/ui/contents/multilingual_text/states/languages/languages_provider.dart';
-import 'package:pimankagom/ui/contents/multilingual_text/states/text_size/text_size_provider.dart';
+import 'package:pimankagom/states/languages/languages_provider.dart';
+import 'package:pimankagom/ui/contents/multilingual_text/states/text_size_provider.dart';
 import 'package:pimankagom/ui/contents/multilingual_text/widgets/text_widget.dart';
 
 class MultilingualTextWidget extends ConsumerWidget {
@@ -22,7 +22,14 @@ class MultilingualTextWidget extends ConsumerWidget {
           .map(
             (lang) => Padding(
               padding: const EdgeInsets.all(16.0),
-              child: Text.rich(formattedText(multilingualText.texts[lang]!, lang, scale: scale, baseSize: baseSize)),
+              child: Text.rich(
+                formattedText(
+                  multilingualText.texts[lang]!,
+                  lang,
+                  scale: scale,
+                  baseSize: baseSize,
+                ),
+              ),
             ),
           )
           .toList(),

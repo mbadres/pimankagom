@@ -30,7 +30,7 @@ class AppState extends State<App> with WidgetsBindingObserver {
       theme: isHighContrast ? contrastLightTheme : palimpsestLightTheme,
       darkTheme: isHighContrast ? contrastDarkTheme : palimpsestDarkTheme,
       home: const Selector(node: ID_EE2DD31D_C3AC_4ED1_8730_D9AE3A3E5ED1),
-      debugShowCheckedModeBanner: false,
+      // debugShowCheckedModeBanner: false,
     );
   }
 }

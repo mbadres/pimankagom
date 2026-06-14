@@ -1,6 +1,6 @@
 import 'package:flutter_riverpod/flutter_riverpod.dart';
 import 'package:pimankagom/ui/configurations/settings/states/settings_provider.dart';
-import 'package:pimankagom/ui/contents/multilingual_text/states/text_size/text_size_state.dart';
+import 'package:pimankagom/ui/contents/multilingual_text/states/text_size_state.dart';
 
 class TextSizeNotifier extends Notifier<TextSizeState> {
   @override

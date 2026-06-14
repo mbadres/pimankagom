@@ -2,9 +2,10 @@ import 'package:flutter/material.dart';
 import 'package:flutter_riverpod/flutter_riverpod.dart';
 import 'package:pimankagom/models/contents/multilingual_text.dart';
 import 'package:pimankagom/models/core/node.dart';
-import 'package:pimankagom/ui/contents/multilingual_text/states/languages/languages_provider.dart';
-import 'package:pimankagom/ui/contents/multilingual_text/states/text_size/text_size_provider.dart';
+import 'package:pimankagom/states/languages/languages_provider.dart';
+import 'package:pimankagom/ui/contents/multilingual_text/states/text_size_provider.dart';
 import 'package:pimankagom/ui/contents/multilingual_text/widgets/text_widget.dart';
+import 'package:pimankagom/ui/shared/director.dart';
 
 class Headline extends ConsumerWidget {
   final Node node;
@@ -13,9 +14,6 @@ class Headline extends ConsumerWidget {
 
   @override
   Widget build(BuildContext context, WidgetRef ref) {
-    final language = ref.watch(languagesProvider).primaryLanguage;
-    final isRtl = language == 'arabic';
-
     final languages = ref.watch(languagesProvider);
     final multilingualText = node.value as MultilingualText;
     final text = multilingualText.texts[languages.primaryLanguage];
@@ -27,8 +25,7 @@ class Headline extends ConsumerWidget {
     final scale = ref.watch(textSizeProvider).scale;
     final baseSize = Theme.of(context).textTheme.titleLarge?.fontSize ?? 14.0;
 
-    return Directionality(
-      textDirection: isRtl ? TextDirection.rtl : TextDirection.ltr,
+    return Director(
       child: DefaultTextStyle.merge(
         textAlign: TextAlign.center,
         style: Theme.of(context).textTheme.titleLarge,

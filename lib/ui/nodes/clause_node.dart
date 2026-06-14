@@ -2,7 +2,7 @@ import 'package:flutter/material.dart';
 import 'package:flutter_riverpod/flutter_riverpod.dart';
 import 'package:pimankagom/models/contents/multilingual_text.dart';
 import 'package:pimankagom/models/core/node.dart';
-import 'package:pimankagom/ui/contents/multilingual_text/states/text_size/text_size_provider.dart';
+import 'package:pimankagom/ui/contents/multilingual_text/states/text_size_provider.dart';
 import 'package:pimankagom/ui/contents/multilingual_text/widgets/text_widget.dart';
 
 class ClauseNode extends ConsumerWidget {

@@ -7,6 +7,6 @@ final palimpsestAppBarTheme = AppBarTheme(
   scrolledUnderElevation: 0,
   backgroundColor: palimpsestColorScheme.surfaceDim,
   foregroundColor: palimpsestColorScheme.secondary,
-  titleTextStyle: palimpsestTextTheme.titleLarge,
+  titleTextStyle: palimpsestTextTheme.titleMedium,
   shape: Border(bottom: BorderSide(color: palimpsestColorScheme.outlineVariant)),
 );
