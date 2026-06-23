@@ -27,6 +27,7 @@ class _DotPatternPainter extends CustomPainter {
         canvas.drawCircle(Offset(x, y), 1.0, p1);
       }
     }
+
     for (double x = 3; x < size.width + 11; x += 11) {
       for (double y = 4; y < size.height + 11; y += 11) {
         canvas.drawCircle(Offset(x, y), 1.0, p2);

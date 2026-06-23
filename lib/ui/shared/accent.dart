@@ -14,7 +14,7 @@ class Accent extends StatelessWidget {
       children: [
         Container(
           decoration: BoxDecoration(
-            color: colorScheme.surfaceContainerHighest,
+            color: colorScheme.surfaceDim,
             border: Border(bottom: BorderSide(color: colorScheme.onPrimaryContainer, width: 2)),
           ),
           child: SizedBox(height: spacing * 2, child: child),

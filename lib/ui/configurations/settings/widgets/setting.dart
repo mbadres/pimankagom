@@ -1,7 +1,7 @@
 import 'package:flutter/material.dart';
 import 'package:flutter_riverpod/flutter_riverpod.dart';
 import 'package:pimankagom/models/configurations/setting.dart' as model;
-import 'package:pimankagom/ui/configurations/settings/states/settings_provider.dart';
+import 'package:pimankagom/states/settings/settings_provider.dart';
 
 class Setting extends ConsumerWidget {
   final model.Setting setting;

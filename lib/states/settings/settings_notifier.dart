@@ -1,6 +1,6 @@
 import 'package:flutter_riverpod/flutter_riverpod.dart';
 import 'package:pimankagom/repositories/settings_repository.dart';
-import 'package:pimankagom/ui/configurations/settings/states/settings_state.dart';
+import 'package:pimankagom/states/settings/settings_state.dart';
 
 class SettingsNotifier extends AsyncNotifier<SettingsState> {
   bool _isValidValue(String? value, SettingsState data, String id) {

@@ -5,11 +5,11 @@ import 'package:pimankagom/models/core/node.dart';
 import 'package:pimankagom/ui/contents/multilingual_text/states/text_size_provider.dart';
 import 'package:pimankagom/ui/contents/multilingual_text/widgets/text_widget.dart';
 
-class ClauseNode extends ConsumerWidget {
+class Clause extends ConsumerWidget {
   final Node node;
   final String language;
 
-  const ClauseNode({super.key, required this.node, required this.language});
+  const Clause({super.key, required this.node, required this.language});
 
   @override
   Widget build(BuildContext context, WidgetRef ref) {

@@ -1,5 +1,4 @@
 import 'package:flutter/material.dart';
-import 'package:pimankagom/themes/basic/basic_theme.dart';
 import 'package:pimankagom/themes/palimpsest/palimpsest_app_bar_theme.dart';
 import 'package:pimankagom/themes/palimpsest/palimpsest_color_scheme.dart';
 import 'package:pimankagom/themes/palimpsest/palimpsest_navigation_bar_theme.dart';
@@ -12,4 +11,8 @@ final ThemeData palimpsestLightTheme = ThemeData(
   navigationBarTheme: palimpsestNavigationBarTheme,
 );
 
-final ThemeData palimpsestDarkTheme = basicDarkTheme;
+final ThemeData palimpsestDarkTheme = ThemeData.dark().copyWith(
+  textTheme: palimpsestTextTheme,
+  appBarTheme: palimpsestAppBarTheme,
+  navigationBarTheme: palimpsestNavigationBarTheme,
+);

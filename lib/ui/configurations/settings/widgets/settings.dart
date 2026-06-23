@@ -1,7 +1,7 @@
 import 'package:collection/collection.dart';
 import 'package:flutter/material.dart';
 import 'package:flutter_riverpod/flutter_riverpod.dart';
-import 'package:pimankagom/ui/configurations/settings/states/settings_provider.dart';
+import 'package:pimankagom/states/settings/settings_provider.dart';
 import 'package:pimankagom/ui/configurations/settings/widgets/settings_group.dart';
 
 class Settings extends ConsumerWidget {

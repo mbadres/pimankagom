@@ -1,7 +1,7 @@
 import 'package:flutter_riverpod/flutter_riverpod.dart';
 import 'package:pimankagom/constants/languages.dart';
 import 'package:pimankagom/states/languages/languages_state.dart';
-import 'package:pimankagom/ui/configurations/settings/states/settings_provider.dart';
+import 'package:pimankagom/states/settings/settings_provider.dart';
 
 class LanguagesNotifier extends Notifier<LanguagesState> {
   @override
