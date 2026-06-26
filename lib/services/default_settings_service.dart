@@ -12,7 +12,7 @@ class DefaultSettingsService {
         category: 'Appearance',
         currentValue: 'medium',
         defaultValue: 'medium',
-        availableValues: ['tiny', 'small', 'medium', 'large', 'huge'],
+        availableValues: ['small', 'medium', 'large'],
       ),
       Setting(
         id: 'view',
@@ -21,16 +21,25 @@ class DefaultSettingsService {
         category: 'Appearance',
         currentValue: 'scroll',
         defaultValue: 'scroll',
-        availableValues: ['scroll', 'slide'],
+        availableValues: ['scroll', 'slide', 'desktop'],
+      ),
+      Setting(
+        id: 'night_mode',
+        name: 'Night Mode',
+        description: 'Select the theme mode for the app.',
+        category: 'Appearance',
+        currentValue: 'auto',
+        defaultValue: 'auto',
+        availableValues: ['on', 'off', 'auto'],
       ),
       Setting(
         id: 'contrast_mode',
         name: 'Contrast Mode',
         description: 'Enable high contrast mode for better visibility.',
         category: 'Appearance',
-        currentValue: 'Off',
-        defaultValue: 'Off',
-        availableValues: ['On', 'Off'],
+        currentValue: 'auto',
+        defaultValue: 'auto',
+        availableValues: ['on', 'off', 'auto'],
       ),
       ...languages.asMap().entries.map(
         (entry) => Setting(
@@ -41,7 +50,7 @@ class DefaultSettingsService {
           currentValue: entry.key.toString(),
           defaultValue: entry.key.toString(),
           availableValues:
-              ['None'] + Iterable.generate(languages.length, (i) => i.toString()).toList(),
+              ['none'] + Iterable.generate(languages.length, (i) => i.toString()).toList(),
         ),
       ),
       Setting(

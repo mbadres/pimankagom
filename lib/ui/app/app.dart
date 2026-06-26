@@ -1,9 +1,48 @@
 import 'package:flutter/material.dart';
-import 'package:pimankagom/ui/app/app_state.dart';
+import 'package:flutter_riverpod/flutter_riverpod.dart';
+import 'package:pimankagom/data/nodes/libraries.dart';
+import 'package:pimankagom/states/settings/settings_provider.dart';
+import 'package:pimankagom/themes/contrast/contrast_theme.dart';
+import 'package:pimankagom/themes/palimpsest/palimpsest_theme.dart';
+import 'package:pimankagom/ui/nodes/selector.dart';
 
-class App extends StatefulWidget {
+class App extends ConsumerWidget {
   const App({super.key});
 
   @override
-  State<App> createState() => AppState();
+  Widget build(BuildContext context, WidgetRef ref) {
+    final settings = ref.watch(settingsProvider);
+    final systemHighContrast = MediaQuery.of(context).highContrast;
+
+    final nightMode = settings.maybeWhen(
+      data: (s) => s.getSetting('night_mode').currentValue,
+      orElse: () => 'auto',
+    );
+
+    final contrastMode = settings.maybeWhen(
+      data: (s) => s.getSetting('contrast_mode').currentValue,
+      orElse: () => 'auto',
+    );
+
+    final themeMode = switch (nightMode) {
+      'on' => ThemeMode.dark,
+      'off' => ThemeMode.light,
+      _ => ThemeMode.system,
+    };
+
+    final useContrastTheme = switch (contrastMode) {
+      'on' => true,
+      'off' => false,
+      _ => systemHighContrast,
+    };
+
+    return MaterialApp(
+      title: 'Flutter Demo',
+      themeMode: themeMode,
+      theme: useContrastTheme ? contrastLightTheme : palimpsestLightTheme,
+      darkTheme: useContrastTheme ? contrastDarkTheme : palimpsestDarkTheme,
+      home: const Selector(node: ID_EE2DD31D_C3AC_4ED1_8730_D9AE3A3E5ED1),
+      // debugShowCheckedModeBanner: false,
+    );
+  }
 }

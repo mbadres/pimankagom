@@ -1,0 +1,2021 @@
+{
+  "id": "3AF2F9D9-77E6-40CC-BAE4-ED3E086CB263",
+  "type": "chapter",
+  "value": {
+    "id": "05B4BBA7-EC09-4076-8E3A-A7CD0223B829",
+    "texts": {
+      "arabic": {
+        "value": "فينكولوم قويبوسدام كورفو ادفوكو دينونكيو",
+        "status": "2FFFCC71-17F9-4D8B-958E-D99BE2366F6B",
+        "emphasizedWordsIndices": [],
+        "strongWordsIndices": []
+      },
+      "coptic": {
+        "value": "Ⲕⲩⲣⲓⲥ Ⲃⲓⲥ Ⲕⲩⲙ Ⲁⲣⲅⲩⲟ Ⲕⲩⲡⲓⲇⲓⲧⲁⲧⲉ",
+        "status": "2FFFCC71-17F9-4D8B-958E-D99BE2366F6B",
+        "emphasizedWordsIndices": [],
+        "strongWordsIndices": []
+      },
+      "english": {
+        "value": "Delicate Eius Coniuratio Damno Reiciendis Debilito",
+        "status": "2FFFCC71-17F9-4D8B-958E-D99BE2366F6B",
+        "emphasizedWordsIndices": [],
+        "strongWordsIndices": []
+      },
+      "german": {
+        "value": "Torrens Cruciamentum Sollers Deorsum Comis Vulpes",
+        "status": "2FFFCC71-17F9-4D8B-958E-D99BE2366F6B",
+        "emphasizedWordsIndices": [],
+        "strongWordsIndices": []
+      }
+    }
+  },
+  "children": [
+    [
+      {
+        "id": "153066D4-D3E1-44D4-AFDE-6C7380DE5B9A",
+        "type": "section",
+        "value": {
+          "id": "89F880E0-69A8-4831-ABD4-E2D14CF9AC2A",
+          "texts": {
+            "arabic": {
+              "value": "اددوكو كابوت",
+              "status": "2FFFCC71-17F9-4D8B-958E-D99BE2366F6B",
+              "emphasizedWordsIndices": [],
+              "strongWordsIndices": []
+            },
+            "coptic": {
+              "value": "",
+              "status": "2FFFCC71-17F9-4D8B-958E-D99BE2366F6B",
+              "emphasizedWordsIndices": [],
+              "strongWordsIndices": []
+            },
+            "english": {
+              "value": "",
+              "status": "2FFFCC71-17F9-4D8B-958E-D99BE2366F6B",
+              "emphasizedWordsIndices": [],
+              "strongWordsIndices": []
+            },
+            "german": {
+              "value": "",
+              "status": "2FFFCC71-17F9-4D8B-958E-D99BE2366F6B",
+              "emphasizedWordsIndices": [],
+              "strongWordsIndices": []
+            }
+          }
+        },
+        "children": [
+          [
+            {
+              "id": "BDE16A33-580E-4688-8BFA-077A261AA6D0",
+              "type": "paragraph",
+              "value": {
+                "id": "46BE5ED8-4CF8-49AC-A915-62987F9C0E00",
+                "texts": {
+                  "arabic": {
+                    "value": "فيكتوس",
+                    "status": "2FFFCC71-17F9-4D8B-958E-D99BE2366F6B",
+                    "emphasizedWordsIndices": [],
+                    "strongWordsIndices": []
+                  },
+                  "coptic": {
+                    "value": "Ⲁⲙⲟ Ⲉⲁⲕⲩⲉ Ⲕⲟⲛⲫⲩⲅⲟ",
+                    "status": "2FFFCC71-17F9-4D8B-958E-D99BE2366F6B",
+                    "emphasizedWordsIndices": [],
+                    "strongWordsIndices": []
+                  },
+                  "english": {
+                    "value": "Valens Subvenio Quam",
+                    "status": "2FFFCC71-17F9-4D8B-958E-D99BE2366F6B",
+                    "emphasizedWordsIndices": [],
+                    "strongWordsIndices": []
+                  },
+                  "german": {
+                    "value": "Suppellex Audio",
+                    "status": "2FFFCC71-17F9-4D8B-958E-D99BE2366F6B",
+                    "emphasizedWordsIndices": [],
+                    "strongWordsIndices": []
+                  }
+                }
+              },
+              "children": [
+                [
+                  {
+                    "id": "6023F677-4B7F-42D2-AE2C-B66A9C60C699",
+                    "type": "clause",
+                    "value": {
+                      "id": "F5CB097D-C147-40B2-B15F-34E6A85C6F8C",
+                      "texts": {
+                        "arabic": {
+                          "value": "كوناي تريبيدي كوبيديتاس تريستيس اججيرو كوربوريس فيرومتامين ديبريمو سولليكيتو.",
+                          "status": "2FFFCC71-17F9-4D8B-958E-D99BE2366F6B",
+                          "emphasizedWordsIndices": [],
+                          "strongWordsIndices": []
+                        },
+                        "coptic": {
+                          "value": "Ⲕⲟⲅⲓⲧⲟ ⲕⲁⲣⲃⲟ ⲗⲁⲩⲇⲁⲛⲧⲓⲩⲙ ⲁⲡⲡⲟⲛⲟ ⲃⲓⲅⲟⲣ ⲥⲩⲃⲗⲓⲙⲉ ⲁⲅⲛⲟⲥⲕⲟ ⲁⲙⲁⲣⲓⲧⲩⲇⲟ ⲥⲩⲥⲧⲓⲛⲉⲟ ⲇⲉⲥⲡⲉⲕⲧⲟ.",
+                          "status": "2FFFCC71-17F9-4D8B-958E-D99BE2366F6B",
+                          "emphasizedWordsIndices": [],
+                          "strongWordsIndices": []
+                        },
+                        "english": {
+                          "value": "Aspernatur vindico peior umerus ceno temperantia blandior ultra cumque turbo.",
+                          "status": "2FFFCC71-17F9-4D8B-958E-D99BE2366F6B",
+                          "emphasizedWordsIndices": [],
+                          "strongWordsIndices": []
+                        },
+                        "german": {
+                          "value": "Delinquo tubineus sequi valens defleo aliquid tempore vinitor aestivus.",
+                          "status": "2FFFCC71-17F9-4D8B-958E-D99BE2366F6B",
+                          "emphasizedWordsIndices": [],
+                          "strongWordsIndices": []
+                        }
+                      }
+                    }
+                  }
+                ]
+              ]
+            }
+          ],
+          [
+            {
+              "id": "DCADB5F7-635D-408E-8F8A-F91FABA06BA3",
+              "type": "paragraph",
+              "value": {
+                "id": "07A765E8-5040-456F-A197-BCE057DED738",
+                "texts": {
+                  "arabic": {
+                    "value": "فيديليكيت ينفلامماتيو سوبور سوبسيكو كوجو ارس",
+                    "status": "2FFFCC71-17F9-4D8B-958E-D99BE2366F6B",
+                    "emphasizedWordsIndices": [],
+                    "strongWordsIndices": []
+                  },
+                  "coptic": {
+                    "value": "Ⲁⲃⲥⲟⲣⲃⲉⲟ Ⲥⲟⲗⲗⲉⲣⲥ Ⲁⲕⲕⲩⲥⲁⲛⲧⲓⲩⲙ Ⲩⲗⲧⲓⲟ",
+                    "status": "2FFFCC71-17F9-4D8B-958E-D99BE2366F6B",
+                    "emphasizedWordsIndices": [],
+                    "strongWordsIndices": []
+                  },
+                  "english": {
+                    "value": "Quos Error Umquam Curatio Commemoro",
+                    "status": "2FFFCC71-17F9-4D8B-958E-D99BE2366F6B",
+                    "emphasizedWordsIndices": [],
+                    "strongWordsIndices": []
+                  },
+                  "german": {
+                    "value": "Vivo Cibo Caput Agnosco Alienus Aperiam",
+                    "status": "2FFFCC71-17F9-4D8B-958E-D99BE2366F6B",
+                    "emphasizedWordsIndices": [],
+                    "strongWordsIndices": []
+                  }
+                }
+              },
+              "children": [
+                [
+                  {
+                    "id": "678B3472-746F-4130-B75D-96A9CCABD5B7",
+                    "type": "clause",
+                    "value": {
+                      "id": "77DDBC40-8925-44B8-B8DD-4B5F09560C84",
+                      "texts": {
+                        "arabic": {
+                          "value": "كارمين باترووس كاتيرفا.",
+                          "status": "2FFFCC71-17F9-4D8B-958E-D99BE2366F6B",
+                          "emphasizedWordsIndices": [],
+                          "strongWordsIndices": []
+                        },
+                        "coptic": {
+                          "value": "Ⲩⲥⲕⲩⲉ ⲕⲩⲓⲁ ⲕⲗⲁⲙ ⲁⲣⲕⲩⲥ ⲡⲁⲉⲛⲥ.",
+                          "status": "2FFFCC71-17F9-4D8B-958E-D99BE2366F6B",
+                          "emphasizedWordsIndices": [],
+                          "strongWordsIndices": []
+                        },
+                        "english": {
+                          "value": "Aliquid sonitus considero vulgivagus.",
+                          "status": "2FFFCC71-17F9-4D8B-958E-D99BE2366F6B",
+                          "emphasizedWordsIndices": [],
+                          "strongWordsIndices": []
+                        },
+                        "german": {
+                          "value": "Clementia patruus abundans aurum blandior.",
+                          "status": "2FFFCC71-17F9-4D8B-958E-D99BE2366F6B",
+                          "emphasizedWordsIndices": [],
+                          "strongWordsIndices": []
+                        }
+                      }
+                    }
+                  }
+                ],
+                [
+                  {
+                    "id": "787F5452-FE60-4902-9164-6BCDC28357DC",
+                    "type": "clause",
+                    "value": {
+                      "id": "87C475CD-FB9A-4082-85C5-BC8396ECAF67",
+                      "texts": {
+                        "arabic": {
+                          "value": "تانديم تيريبرو ادامو نيمو فادو تيبيدوس ديميتتو فولجيفاجوس كوممودو بينيفولينتيا اسبورتو.",
+                          "status": "2FFFCC71-17F9-4D8B-958E-D99BE2366F6B",
+                          "emphasizedWordsIndices": [],
+                          "strongWordsIndices": []
+                        },
+                        "coptic": {
+                          "value": "Ⲕⲁⲙⲡⲁⲛⲁ ⲓⲗⲗⲩⲙ ⲁⲩⲣⲩⲙ ⲇⲉⲛⲉⲅⲟ ⲧⲟⲧⲓⲉⲥ ⲁⲃⲥⲉⲛⲥ ⲃⲉⲛⲩⲥⲧⲁⲥ ⲇⲉⲫⲉⲧⲓⲥⲕⲟⲣ ⲁⲩⲇⲉⲛⲧⲓⲁ ⲕⲟⲣⲡⲟⲣⲓⲥ.",
+                          "status": "2FFFCC71-17F9-4D8B-958E-D99BE2366F6B",
+                          "emphasizedWordsIndices": [],
+                          "strongWordsIndices": []
+                        },
+                        "english": {
+                          "value": "Ventito tricesimus terra adipiscor torrens tamisium perferendis voluptatem viscus tabesco adhaero.",
+                          "status": "2FFFCC71-17F9-4D8B-958E-D99BE2366F6B",
+                          "emphasizedWordsIndices": [],
+                          "strongWordsIndices": []
+                        },
+                        "german": {
+                          "value": "Deserunt commodo supra peior xiphias ullam fugit ulterius incidunt ante taceo.",
+                          "status": "2FFFCC71-17F9-4D8B-958E-D99BE2366F6B",
+                          "emphasizedWordsIndices": [],
+                          "strongWordsIndices": []
+                        }
+                      }
+                    }
+                  }
+                ],
+                [
+                  {
+                    "id": "529344DC-9BAF-485B-AD34-2B95687ECBAE",
+                    "type": "clause",
+                    "value": {
+                      "id": "C667BD6B-FC9C-4172-A87E-84CDF01ECD06",
+                      "texts": {
+                        "arabic": {
+                          "value": "فيريليتير اربور باتريا.",
+                          "status": "2FFFCC71-17F9-4D8B-958E-D99BE2366F6B",
+                          "emphasizedWordsIndices": [],
+                          "strongWordsIndices": []
+                        },
+                        "coptic": {
+                          "value": "Ⲧⲉⲙⲡⲟⲣⲓⲃⲩⲥ ⲃⲉⲗⲟⲕⲓⲧⲉⲣ ⲕⲩⲓⲥ ⲓⲡⲥⲩⲙ ⲁⲗⲓⲓ.",
+                          "status": "2FFFCC71-17F9-4D8B-958E-D99BE2366F6B",
+                          "emphasizedWordsIndices": [],
+                          "strongWordsIndices": []
+                        },
+                        "english": {
+                          "value": "Decet aveho amiculum.",
+                          "status": "2FFFCC71-17F9-4D8B-958E-D99BE2366F6B",
+                          "emphasizedWordsIndices": [],
+                          "strongWordsIndices": []
+                        },
+                        "german": {
+                          "value": "Coadunatio vos demum.",
+                          "status": "2FFFCC71-17F9-4D8B-958E-D99BE2366F6B",
+                          "emphasizedWordsIndices": [],
+                          "strongWordsIndices": []
+                        }
+                      }
+                    }
+                  }
+                ],
+                [
+                  {
+                    "id": "145E8C6D-680F-4DBE-89E7-EE6FC6D760E4",
+                    "type": "clause",
+                    "value": {
+                      "id": "B5583DE6-A44C-45ED-BD8A-23B6D9C3954E",
+                      "texts": {
+                        "arabic": {
+                          "value": "كريو كاسوس تانتوم اب باوبير.",
+                          "status": "2FFFCC71-17F9-4D8B-958E-D99BE2366F6B",
+                          "emphasizedWordsIndices": [],
+                          "strongWordsIndices": []
+                        },
+                        "coptic": {
+                          "value": "Ⲥⲩⲙⲙⲟⲡⲉⲣⲉ ⲧⲏⲩⲙⲃⲣⲁ ⲁⲩⲧ ⲕⲟⲣⲩⲥⲕⲩⲥ ⲁⲅⲟ.",
+                          "status": "2FFFCC71-17F9-4D8B-958E-D99BE2366F6B",
+                          "emphasizedWordsIndices": [],
+                          "strongWordsIndices": []
+                        },
+                        "english": {
+                          "value": "Conturbo sufficio acies conculco apto.",
+                          "status": "2FFFCC71-17F9-4D8B-958E-D99BE2366F6B",
+                          "emphasizedWordsIndices": [],
+                          "strongWordsIndices": []
+                        },
+                        "german": {
+                          "value": "Trucido appono validus.",
+                          "status": "2FFFCC71-17F9-4D8B-958E-D99BE2366F6B",
+                          "emphasizedWordsIndices": [],
+                          "strongWordsIndices": []
+                        }
+                      }
+                    }
+                  }
+                ],
+                [
+                  {
+                    "id": "DD8BBCD4-DF02-4C72-B73B-E77EB47081AC",
+                    "type": "clause",
+                    "value": {
+                      "id": "0D577643-B509-4B01-BCE2-71E24529ADAF",
+                      "texts": {
+                        "arabic": {
+                          "value": "وربس كونكولكو يررور اوكتوس تهيرماي اككوممودو دوكيموس فيريتاتيس ياقوي.",
+                          "status": "2FFFCC71-17F9-4D8B-958E-D99BE2366F6B",
+                          "emphasizedWordsIndices": [],
+                          "strongWordsIndices": []
+                        },
+                        "coptic": {
+                          "value": "Ⲕⲟⲛⲫⲓⲇⲟ ⲡⲟⲣⲣⲟ ⲓⲡⲥⲩⲙ ⲥⲧⲓⲡⲉⲥ ⲇⲟⲗⲟⲣⲉⲥ ⲃⲉⲥⲧⲉⲣ ⲕⲁⲛⲇⲓⲇⲩⲥ ⲇⲉⲗⲉⲟ ⲃⲟⲕⲟ ⲉⲥⲧ.",
+                          "status": "2FFFCC71-17F9-4D8B-958E-D99BE2366F6B",
+                          "emphasizedWordsIndices": [],
+                          "strongWordsIndices": []
+                        },
+                        "english": {
+                          "value": "Deleniti copiose vesper vel bibo terga praesentium vulnero uberrime.",
+                          "status": "2FFFCC71-17F9-4D8B-958E-D99BE2366F6B",
+                          "emphasizedWordsIndices": [],
+                          "strongWordsIndices": []
+                        },
+                        "german": {
+                          "value": "Acervus vix creo viriliter arbustum sui summopere ubi vesco demulceo enim.",
+                          "status": "2FFFCC71-17F9-4D8B-958E-D99BE2366F6B",
+                          "emphasizedWordsIndices": [],
+                          "strongWordsIndices": []
+                        }
+                      }
+                    }
+                  }
+                ]
+              ]
+            }
+          ],
+          [
+            {
+              "id": "75ECA57E-7CB6-4ABB-94C7-62D799B5277C",
+              "type": "paragraph",
+              "value": {
+                "id": "023C47B9-A6A3-408A-8778-CEB0318DB027",
+                "texts": {
+                  "arabic": {
+                    "value": "تهيكا ادسويسكو فيرتوس اوديو سولليكيتو",
+                    "status": "2FFFCC71-17F9-4D8B-958E-D99BE2366F6B",
+                    "emphasizedWordsIndices": [],
+                    "strongWordsIndices": []
+                  },
+                  "coptic": {
+                    "value": "Ⲡⲁⲩⲗⲁⲧⲓⲙ Ⲕⲁⲡⲩⲧ Ⲧⲉⲝⲧⲓⲗⲓⲥ Ⲃⲟⲝ Ⲧⲉⲙⲡⲩⲥ",
+                    "status": "2FFFCC71-17F9-4D8B-958E-D99BE2366F6B",
+                    "emphasizedWordsIndices": [],
+                    "strongWordsIndices": []
+                  },
+                  "english": {
+                    "value": "Solium Perferendis Dapifer Quaerat",
+                    "status": "2FFFCC71-17F9-4D8B-958E-D99BE2366F6B",
+                    "emphasizedWordsIndices": [],
+                    "strongWordsIndices": []
+                  },
+                  "german": {
+                    "value": "Alias Stillicidium Claro",
+                    "status": "2FFFCC71-17F9-4D8B-958E-D99BE2366F6B",
+                    "emphasizedWordsIndices": [],
+                    "strongWordsIndices": []
+                  }
+                }
+              },
+              "children": [
+                [
+                  {
+                    "id": "1B7AC9A2-45D9-45DF-9699-383A702385F3",
+                    "type": "clause",
+                    "value": {
+                      "id": "51238154-842A-4585-AE0F-CCB85816B742",
+                      "texts": {
+                        "arabic": {
+                          "value": "ابباراتوس فولفا تهالاسسينوس سواديو دولوري فيس كوممودو ايتيرنوس فيريتاتيس ديبورتو سوببيلليخ كاتتوس.",
+                          "status": "2FFFCC71-17F9-4D8B-958E-D99BE2366F6B",
+                          "emphasizedWordsIndices": [],
+                          "strongWordsIndices": []
+                        },
+                        "coptic": {
+                          "value": "Ⲕⲁⲗⲁⲙⲓⲧⲁⲥ ⲕⲁⲡⲓⲟ ⲁⲉⲕⲩⲓⲧⲁⲥ ⲁⲣⲅⲩⲟ ⲇⲉⲕⲉⲣⲛⲟ ⲁⲡⲟⲥⲧⲟⲗⲩⲥ ⲁⲅⲛⲟⲥⲕⲟ ⲕⲟⲛⲥⲕⲉⲛⲇⲟ ⲇⲁⲙⲛⲁⲧⲓⲟ ⲧⲉⲙⲡⲟⲣⲁ ⲕⲉⲗⲉⲃⲣⲉⲣ.",
+                          "status": "2FFFCC71-17F9-4D8B-958E-D99BE2366F6B",
+                          "emphasizedWordsIndices": [],
+                          "strongWordsIndices": []
+                        },
+                        "english": {
+                          "value": "Utroque viridis adsuesco demitto voluptate tunc vivo depereo taceo possimus mollitia.",
+                          "status": "2FFFCC71-17F9-4D8B-958E-D99BE2366F6B",
+                          "emphasizedWordsIndices": [],
+                          "strongWordsIndices": []
+                        },
+                        "german": {
+                          "value": "Vado itaque ducimus claudeo absorbeo auxilium spiculum nobis audentia ventus crur astrum cattus.",
+                          "status": "2FFFCC71-17F9-4D8B-958E-D99BE2366F6B",
+                          "emphasizedWordsIndices": [],
+                          "strongWordsIndices": []
+                        }
+                      }
+                    }
+                  }
+                ],
+                [
+                  {
+                    "id": "D28F2D80-9A77-48CE-A4A0-55EF3F0F46BA",
+                    "type": "clause",
+                    "value": {
+                      "id": "1DE8652A-72E6-4A6B-BA2E-E1AA9D1F6A4C",
+                      "texts": {
+                        "arabic": {
+                          "value": "كيرنووس ديسيرونت ديمونسترو كوما بيككاتوس سولليرس انكيللا تهيسيس سبولياتيو اماريتودو وللوس تيرو بيللوم.",
+                          "status": "2FFFCC71-17F9-4D8B-958E-D99BE2366F6B",
+                          "emphasizedWordsIndices": [],
+                          "strongWordsIndices": []
+                        },
+                        "coptic": {
+                          "value": "Ⲁⲡⲡⲟⲥⲓⲧⲩⲥ ⲧⲓⲙⲟⲣ ⲁⲉⲛⲉⲩⲥ ⲃⲉⲛⲉ ⲕⲁⲗⲕⲟ ⲕⲁⲃⲩⲥ ⲃⲓⲥ ⲇⲉⲡⲣⲓⲙⲟ ⲓⲥⲧⲉ ⲇⲉⲕⲣⲉⲧⲩⲙ ⲧⲉⲣⲉⲃⲣⲟ ⲕⲁⲩⲇⲁ ⲇⲉⲫⲉⲛⲇⲟ.",
+                          "status": "2FFFCC71-17F9-4D8B-958E-D99BE2366F6B",
+                          "emphasizedWordsIndices": [],
+                          "strongWordsIndices": []
+                        },
+                        "english": {
+                          "value": "Suspendo ventito aegre tandem sopor terra tempora campana architecto voveo tum.",
+                          "status": "2FFFCC71-17F9-4D8B-958E-D99BE2366F6B",
+                          "emphasizedWordsIndices": [],
+                          "strongWordsIndices": []
+                        },
+                        "german": {
+                          "value": "Censura clarus ambitus eaque acidus alii crinis cognomen aeger deleniti debitis.",
+                          "status": "2FFFCC71-17F9-4D8B-958E-D99BE2366F6B",
+                          "emphasizedWordsIndices": [],
+                          "strongWordsIndices": []
+                        }
+                      }
+                    }
+                  }
+                ],
+                [
+                  {
+                    "id": "775610BD-FF85-4722-BF2A-63D6B868CB16",
+                    "type": "clause",
+                    "value": {
+                      "id": "1FA21E73-12F6-4535-A901-035481439C2B",
+                      "texts": {
+                        "arabic": {
+                          "value": "ينفيت فيربوم ديفيكيو اوكتور سومو كروستولوم.",
+                          "status": "2FFFCC71-17F9-4D8B-958E-D99BE2366F6B",
+                          "emphasizedWordsIndices": [],
+                          "strongWordsIndices": []
+                        },
+                        "coptic": {
+                          "value": "Ⲕⲉⲛⲧⲩⲙ ⲓⲥⲧⲉ ⲁⲣⲝ ⲁⲛⲓⲙⲓ ⲁⲇⲫⲓⲕⲓⲟ ⲉⲝⲡⲗⲓⲕⲁⲃⲟ ⲁⲇⲏⲩⲕ.",
+                          "status": "2FFFCC71-17F9-4D8B-958E-D99BE2366F6B",
+                          "emphasizedWordsIndices": [],
+                          "strongWordsIndices": []
+                        },
+                        "english": {
+                          "value": "Delego labore careo tredecim consuasor templum.",
+                          "status": "2FFFCC71-17F9-4D8B-958E-D99BE2366F6B",
+                          "emphasizedWordsIndices": [],
+                          "strongWordsIndices": []
+                        },
+                        "german": {
+                          "value": "Autem aequus utor sollers tracto villa.",
+                          "status": "2FFFCC71-17F9-4D8B-958E-D99BE2366F6B",
+                          "emphasizedWordsIndices": [],
+                          "strongWordsIndices": []
+                        }
+                      }
+                    }
+                  }
+                ],
+                [
+                  {
+                    "id": "CE3DF7EE-CFD9-46BC-BE02-F1ED0E563008",
+                    "type": "clause",
+                    "value": {
+                      "id": "12B18DCE-C5CC-43E4-A8BB-F711CFE2F284",
+                      "texts": {
+                        "arabic": {
+                          "value": "وتير كولبو بيني كورتو فيخ انيمي يخ استروم ديستينكتيو ادفوكو فيتو اججريديور.",
+                          "status": "2FFFCC71-17F9-4D8B-958E-D99BE2366F6B",
+                          "emphasizedWordsIndices": [],
+                          "strongWordsIndices": []
+                        },
+                        "coptic": {
+                          "value": "Ⲥⲟⲣⲇⲉⲟ ⲁⲇⲙⲓⲛⲓⲥⲧⲣⲁⲧⲓⲟ ⲁⲣⲕⲩⲥ ⲩⲙⲕⲩⲁⲙ ⲡⲁⲧⲣⲓⲁ ⲝⲓⲡⲏⲓⲁⲥ ⲇⲉⲙⲉⲛⲥ ⲁⲙⲓⲕⲓⲧⲓⲁ ⲕⲟⲛⲥⲉⲣⲃⲟ ⲁⲗⲗⲁⲧⲩⲥ.",
+                          "status": "2FFFCC71-17F9-4D8B-958E-D99BE2366F6B",
+                          "emphasizedWordsIndices": [],
+                          "strongWordsIndices": []
+                        },
+                        "english": {
+                          "value": "Ait caute conforto argentum armarium benevolentia tertius victoria auditor aurum abbas.",
+                          "status": "2FFFCC71-17F9-4D8B-958E-D99BE2366F6B",
+                          "emphasizedWordsIndices": [],
+                          "strongWordsIndices": []
+                        },
+                        "german": {
+                          "value": "Utpote corrupti vero nobis suppono auxilium pax comminor cupiditate tero tamen.",
+                          "status": "2FFFCC71-17F9-4D8B-958E-D99BE2366F6B",
+                          "emphasizedWordsIndices": [],
+                          "strongWordsIndices": []
+                        }
+                      }
+                    }
+                  }
+                ],
+                [
+                  {
+                    "id": "0F23527B-82DC-445E-B1BD-5470F249A8ED",
+                    "type": "clause",
+                    "value": {
+                      "id": "8C10B719-3FA2-42A3-9230-78DD74D13FB5",
+                      "texts": {
+                        "arabic": {
+                          "value": "كالليدي كونسيقوونتور سبيكتاكولوم سولليرس سوبنيكتو فاكو.",
+                          "status": "2FFFCC71-17F9-4D8B-958E-D99BE2366F6B",
+                          "emphasizedWordsIndices": [],
+                          "strongWordsIndices": []
+                        },
+                        "coptic": {
+                          "value": "Ⲁⲉⲅⲣⲟⲧⲁⲧⲓⲟ ⲇⲉⲗⲓⲛⲕⲩⲟ ⲥⲩⲙⲙⲓⲥⲥⲉ ⲕⲁⲃⲩⲥ ⲁⲣⲙⲁⲣⲓⲩⲙ ⲕⲟⲛⲓⲉⲕⲧⲟ.",
+                          "status": "2FFFCC71-17F9-4D8B-958E-D99BE2366F6B",
+                          "emphasizedWordsIndices": [],
+                          "strongWordsIndices": []
+                        },
+                        "english": {
+                          "value": "Vulnus caput amaritudo vitiosus.",
+                          "status": "2FFFCC71-17F9-4D8B-958E-D99BE2366F6B",
+                          "emphasizedWordsIndices": [],
+                          "strongWordsIndices": []
+                        },
+                        "german": {
+                          "value": "Cultellus accusantium talio vinco arceo.",
+                          "status": "2FFFCC71-17F9-4D8B-958E-D99BE2366F6B",
+                          "emphasizedWordsIndices": [],
+                          "strongWordsIndices": []
+                        }
+                      }
+                    }
+                  }
+                ],
+                [
+                  {
+                    "id": "64168F68-132D-44BA-97BD-60C840F8F37F",
+                    "type": "clause",
+                    "value": {
+                      "id": "C2509333-E7E9-467D-AE7D-94F39588A955",
+                      "texts": {
+                        "arabic": {
+                          "value": "اداوجيو اججيرو كيرنو سينت اديبيسكور فوكيفيرور فيتاي ديميرجو اركا كورفو تيررا تريكيسيموس اديبيسكي.",
+                          "status": "2FFFCC71-17F9-4D8B-958E-D99BE2366F6B",
+                          "emphasizedWordsIndices": [],
+                          "strongWordsIndices": []
+                        },
+                        "coptic": {
+                          "value": "Ⲕⲟⲅⲛⲁⲧⲩⲥ ⲇⲉⲙⲉⲣⲅⲟ ⲧⲣⲩⲕⲓⲇⲟ ⲇⲉⲫⲉⲥⲥⲩⲥ ⲥⲡⲉⲕⲓⲟⲥⲩⲥ ⲕⲁⲗⲗⲓⲇⲉ ⲇⲉⲅⲉⲣⲟ ⲕⲟⲛⲧⲣⲁ ⲃⲓⲕⲧⲩⲥ ⲕⲣⲉⲃⲉⲣ ⲧⲩⲛⲕ ⲩⲧⲓⲕⲩⲉ ⲁⲙⲟⲃⲉⲟ.",
+                          "status": "2FFFCC71-17F9-4D8B-958E-D99BE2366F6B",
+                          "emphasizedWordsIndices": [],
+                          "strongWordsIndices": []
+                        },
+                        "english": {
+                          "value": "Odit damnatio comburo adaugeo versus vehemens ullam colligo iusto cunabula coepi succedo.",
+                          "status": "2FFFCC71-17F9-4D8B-958E-D99BE2366F6B",
+                          "emphasizedWordsIndices": [],
+                          "strongWordsIndices": []
+                        },
+                        "german": {
+                          "value": "Antiquus tergum sol surculus coadunatio summopere adhaero consectetur curiositas umerus umquam.",
+                          "status": "2FFFCC71-17F9-4D8B-958E-D99BE2366F6B",
+                          "emphasizedWordsIndices": [],
+                          "strongWordsIndices": []
+                        }
+                      }
+                    }
+                  }
+                ]
+              ]
+            }
+          ],
+          [
+            {
+              "id": "C29B6A2F-B604-4895-B60F-DDAA795E53AA",
+              "type": "paragraph",
+              "value": {
+                "id": "F846446F-3896-4953-B722-ECD2D3F30855",
+                "texts": {
+                  "arabic": {
+                    "value": "كابوت ليبيرو",
+                    "status": "2FFFCC71-17F9-4D8B-958E-D99BE2366F6B",
+                    "emphasizedWordsIndices": [],
+                    "strongWordsIndices": []
+                  },
+                  "coptic": {
+                    "value": "Ⲕⲁⲥⲩⲥ Ⲇⲉⲫⲉⲧⲓⲥⲕⲟⲣ Ⲁⲣⲕⲉⲥⲥⲟ",
+                    "status": "2FFFCC71-17F9-4D8B-958E-D99BE2366F6B",
+                    "emphasizedWordsIndices": [],
+                    "strongWordsIndices": []
+                  },
+                  "english": {
+                    "value": "Tubineus Caput",
+                    "status": "2FFFCC71-17F9-4D8B-958E-D99BE2366F6B",
+                    "emphasizedWordsIndices": [],
+                    "strongWordsIndices": []
+                  },
+                  "german": {
+                    "value": "Amiculum",
+                    "status": "2FFFCC71-17F9-4D8B-958E-D99BE2366F6B",
+                    "emphasizedWordsIndices": [],
+                    "strongWordsIndices": []
+                  }
+                }
+              },
+              "children": [
+                [
+                  {
+                    "id": "928512DC-417D-451B-BB30-4AEFB3F9ADF3",
+                    "type": "clause",
+                    "value": {
+                      "id": "5CA6C4A0-E011-4D86-AD9E-E21F921397C8",
+                      "texts": {
+                        "arabic": {
+                          "value": "ديجنيسسيموس ادوليسكينس ولتيريوس كوي كانتو سورسوم كيبوس.",
+                          "status": "2FFFCC71-17F9-4D8B-958E-D99BE2366F6B",
+                          "emphasizedWordsIndices": [],
+                          "strongWordsIndices": []
+                        },
+                        "coptic": {
+                          "value": "Ⲁⲇⲩⲣⲟ ⲇⲉⲗⲉⲕⲧⲩⲥ ⲧⲉⲣⲣⲉⲟ ⲁⲇⲏⲁⲉⲣⲟ ⲇⲉⲇⲓⲕⲟ ⲇⲉⲕⲉⲧ.",
+                          "status": "2FFFCC71-17F9-4D8B-958E-D99BE2366F6B",
+                          "emphasizedWordsIndices": [],
+                          "strongWordsIndices": []
+                        },
+                        "english": {
+                          "value": "Cinis terebro absorbeo arcesso accusantium.",
+                          "status": "2FFFCC71-17F9-4D8B-958E-D99BE2366F6B",
+                          "emphasizedWordsIndices": [],
+                          "strongWordsIndices": []
+                        },
+                        "german": {
+                          "value": "Usitas carmen verumtamen depraedor audax dolorem audio.",
+                          "status": "2FFFCC71-17F9-4D8B-958E-D99BE2366F6B",
+                          "emphasizedWordsIndices": [],
+                          "strongWordsIndices": []
+                        }
+                      }
+                    }
+                  }
+                ],
+                [
+                  {
+                    "id": "445CE093-6AEB-4230-A0FB-57BCC6F7D796",
+                    "type": "clause",
+                    "value": {
+                      "id": "248DCDB2-E2CA-4CA9-A190-3F26FFA011D4",
+                      "texts": {
+                        "arabic": {
+                          "value": "سوبهيسماتا ادورو وربانوس تهياتروم تيمبوريبوس بيللوم.",
+                          "status": "2FFFCC71-17F9-4D8B-958E-D99BE2366F6B",
+                          "emphasizedWordsIndices": [],
+                          "strongWordsIndices": []
+                        },
+                        "coptic": {
+                          "value": "Ⲕⲟⲡⲓⲁ ⲕⲩⲓⲥⲕⲩⲁⲙ ⲃⲉⲥⲧⲣⲩⲙ ⲁⲧⲧⲉⲣⲟ ⲛⲉⲕⲉⲥⲥⲓⲧⲁⲧⲓⲃⲩⲥ ⲇⲓⲕⲧⲁ ⲁⲇⲙⲓⲧⲧⲟ ⲕⲁⲣⲃⲟ.",
+                          "status": "2FFFCC71-17F9-4D8B-958E-D99BE2366F6B",
+                          "emphasizedWordsIndices": [],
+                          "strongWordsIndices": []
+                        },
+                        "english": {
+                          "value": "Angustus appono dignissimos crustulum tam velum convoco.",
+                          "status": "2FFFCC71-17F9-4D8B-958E-D99BE2366F6B",
+                          "emphasizedWordsIndices": [],
+                          "strongWordsIndices": []
+                        },
+                        "german": {
+                          "value": "Colligo cubicularis solus vulnero bestia consequuntur natus coruscus.",
+                          "status": "2FFFCC71-17F9-4D8B-958E-D99BE2366F6B",
+                          "emphasizedWordsIndices": [],
+                          "strongWordsIndices": []
+                        }
+                      }
+                    }
+                  }
+                ],
+                [
+                  {
+                    "id": "4E46381A-8E7A-44F9-8F5F-0DCB196804F6",
+                    "type": "clause",
+                    "value": {
+                      "id": "EFBAD114-62BE-41D9-9665-5D0796284EE6",
+                      "texts": {
+                        "arabic": {
+                          "value": "كابيتولوس ديفلوو التير.",
+                          "status": "2FFFCC71-17F9-4D8B-958E-D99BE2366F6B",
+                          "emphasizedWordsIndices": [],
+                          "strongWordsIndices": []
+                        },
+                        "coptic": {
+                          "value": "Ⲇⲉⲫⲩⲛⲅⲟ ⲛⲩⲗⲗⲁ ⲥⲧⲣⲉⲛⲩⲩⲥ.",
+                          "status": "2FFFCC71-17F9-4D8B-958E-D99BE2366F6B",
+                          "emphasizedWordsIndices": [],
+                          "strongWordsIndices": []
+                        },
+                        "english": {
+                          "value": "Defessus suffoco.",
+                          "status": "2FFFCC71-17F9-4D8B-958E-D99BE2366F6B",
+                          "emphasizedWordsIndices": [],
+                          "strongWordsIndices": []
+                        },
+                        "german": {
+                          "value": "Admoneo virgo tenuis.",
+                          "status": "2FFFCC71-17F9-4D8B-958E-D99BE2366F6B",
+                          "emphasizedWordsIndices": [],
+                          "strongWordsIndices": []
+                        }
+                      }
+                    }
+                  }
+                ],
+                [
+                  {
+                    "id": "10F03FE9-3A02-4CBC-B1DC-5BA621FAC1F4",
+                    "type": "clause",
+                    "value": {
+                      "id": "B78B007D-56F1-4A71-A899-BF94CD744763",
+                      "texts": {
+                        "arabic": {
+                          "value": "اتتوللو كايليستيس اننوس نومقوام دييندي سوففيكيو اديبتيو فوكيفيرور ديليو انجوستوس امبلوس اير.",
+                          "status": "2FFFCC71-17F9-4D8B-958E-D99BE2366F6B",
+                          "emphasizedWordsIndices": [],
+                          "strongWordsIndices": []
+                        },
+                        "coptic": {
+                          "value": "Ⲩⲥⲓⲧⲁⲥ ⲕⲟⲛⲃⲟⲕⲟ ⲇⲉⲗⲉⲕⲧⲁⲧⲓⲟ ⲕⲁⲩⲧⲉ ⲕⲩⲣⲓⲟⲥⲓⲧⲁⲥ ⲧⲣⲓⲡⲩⲇⲓⲟ ⲕⲩⲓⲩⲥ ⲕⲁⲥⲥⲟ ⲧⲉⲙⲡⲩⲥ ⲙⲟⲗⲉⲥⲧⲓⲁⲥ ⲧⲉⲣ ⲃⲟⲥ.",
+                          "status": "2FFFCC71-17F9-4D8B-958E-D99BE2366F6B",
+                          "emphasizedWordsIndices": [],
+                          "strongWordsIndices": []
+                        },
+                        "english": {
+                          "value": "Testimonium depraedor dolore tumultus sint voro vobis viriliter cupiditate confido suasoria.",
+                          "status": "2FFFCC71-17F9-4D8B-958E-D99BE2366F6B",
+                          "emphasizedWordsIndices": [],
+                          "strongWordsIndices": []
+                        },
+                        "german": {
+                          "value": "Volo thesis inflammatio totam sufficio voveo verbera consequuntur cruciamentum suus vinculum cruciamentum desidero.",
+                          "status": "2FFFCC71-17F9-4D8B-958E-D99BE2366F6B",
+                          "emphasizedWordsIndices": [],
+                          "strongWordsIndices": []
+                        }
+                      }
+                    }
+                  }
+                ],
+                [
+                  {
+                    "id": "1A31417B-C8E6-47DD-B5DC-D79E6019681A",
+                    "type": "clause",
+                    "value": {
+                      "id": "98FDBD3A-BB46-4C15-8F94-F5E2E1692A96",
+                      "texts": {
+                        "arabic": {
+                          "value": "كالكو اللاتوس ديفيكيو.",
+                          "status": "2FFFCC71-17F9-4D8B-958E-D99BE2366F6B",
+                          "emphasizedWordsIndices": [],
+                          "strongWordsIndices": []
+                        },
+                        "coptic": {
+                          "value": "Ⲃⲉⲣⲉ ⲃⲓⲛⲓⲧⲟⲣ ⲕⲉⲛⲁ.",
+                          "status": "2FFFCC71-17F9-4D8B-958E-D99BE2366F6B",
+                          "emphasizedWordsIndices": [],
+                          "strongWordsIndices": []
+                        },
+                        "english": {
+                          "value": "Turbo arca curto apostolus.",
+                          "status": "2FFFCC71-17F9-4D8B-958E-D99BE2366F6B",
+                          "emphasizedWordsIndices": [],
+                          "strongWordsIndices": []
+                        },
+                        "german": {
+                          "value": "Sursum uter perspiciatis versus.",
+                          "status": "2FFFCC71-17F9-4D8B-958E-D99BE2366F6B",
+                          "emphasizedWordsIndices": [],
+                          "strongWordsIndices": []
+                        }
+                      }
+                    }
+                  }
+                ]
+              ]
+            }
+          ]
+        ]
+      }
+    ],
+    [
+      {
+        "id": "9C83E531-ED40-45F0-B83F-F79A53C86955",
+        "type": "section",
+        "value": {
+          "id": "35A9D141-4CBE-4328-8BC1-34F1B1F2759F",
+          "texts": {
+            "arabic": {
+              "value": "امو",
+              "status": "2FFFCC71-17F9-4D8B-958E-D99BE2366F6B",
+              "emphasizedWordsIndices": [],
+              "strongWordsIndices": []
+            },
+            "coptic": {
+              "value": "Ⲥⲩⲕⲕⲉⲇⲟ Ⲥⲩⲙ",
+              "status": "2FFFCC71-17F9-4D8B-958E-D99BE2366F6B",
+              "emphasizedWordsIndices": [],
+              "strongWordsIndices": []
+            },
+            "english": {
+              "value": "",
+              "status": "2FFFCC71-17F9-4D8B-958E-D99BE2366F6B",
+              "emphasizedWordsIndices": [],
+              "strongWordsIndices": []
+            },
+            "german": {
+              "value": "Convoco Stabilis",
+              "status": "2FFFCC71-17F9-4D8B-958E-D99BE2366F6B",
+              "emphasizedWordsIndices": [],
+              "strongWordsIndices": []
+            }
+          }
+        },
+        "children": [
+          [
+            {
+              "id": "1DE68486-831C-4D40-8AB4-C9C73CD94404",
+              "type": "paragraph",
+              "value": {
+                "id": "B0AAB1FF-7967-4496-B547-B0826CE0D3AF",
+                "texts": {
+                  "arabic": {
+                    "value": "كابيو فولاريتير",
+                    "status": "2FFFCC71-17F9-4D8B-958E-D99BE2366F6B",
+                    "emphasizedWordsIndices": [],
+                    "strongWordsIndices": []
+                  },
+                  "coptic": {
+                    "value": "Ⲕⲩⲛⲁⲃⲩⲗⲁ Ⲉⲩⲙ",
+                    "status": "2FFFCC71-17F9-4D8B-958E-D99BE2366F6B",
+                    "emphasizedWordsIndices": [],
+                    "strongWordsIndices": []
+                  },
+                  "english": {
+                    "value": "",
+                    "status": "2FFFCC71-17F9-4D8B-958E-D99BE2366F6B",
+                    "emphasizedWordsIndices": [],
+                    "strongWordsIndices": []
+                  },
+                  "german": {
+                    "value": "Celebrer Compello",
+                    "status": "2FFFCC71-17F9-4D8B-958E-D99BE2366F6B",
+                    "emphasizedWordsIndices": [],
+                    "strongWordsIndices": []
+                  }
+                }
+              },
+              "children": [
+                [
+                  {
+                    "id": "4D03B102-2BEC-4802-ADF7-5704E9139351",
+                    "type": "clause",
+                    "value": {
+                      "id": "FB8197F0-13C0-4BE2-903D-F1F7BB13C682",
+                      "texts": {
+                        "arabic": {
+                          "value": "تريبوديو بيستيا اقوا وككايكاتي يررور سوببلانتو توم امور وت ونوس.",
+                          "status": "2FFFCC71-17F9-4D8B-958E-D99BE2366F6B",
+                          "emphasizedWordsIndices": [],
+                          "strongWordsIndices": []
+                        },
+                        "coptic": {
+                          "value": "Ⲕⲁⲧⲧⲩⲥ ⲧⲉⲙⲡⲟⲣⲁ ⲕⲓⲙⲓⲛⲁⲧⲓⲟ ⲧⲉⲣⲟ ⲧⲟⲣⲕⲩⲉⲟ ⲕⲟⲛⲥⲉⲕⲩⲁⲧⲩⲣ ⲥⲡⲁⲣⲅⲟ ⲕⲟⲗⲗⲩⲙ ⲕⲟⲙⲓⲥ ⲥⲧⲟ ⲕⲁⲛⲇⲓⲇⲩⲥ.",
+                          "status": "2FFFCC71-17F9-4D8B-958E-D99BE2366F6B",
+                          "emphasizedWordsIndices": [],
+                          "strongWordsIndices": []
+                        },
+                        "english": {
+                          "value": "Urbs desipio agnosco vis crapula confido callide curiositas infit praesentium constans.",
+                          "status": "2FFFCC71-17F9-4D8B-958E-D99BE2366F6B",
+                          "emphasizedWordsIndices": [],
+                          "strongWordsIndices": []
+                        },
+                        "german": {
+                          "value": "Alter cavus avarus pecus vilicus suscipit sonitus tripudio demoror clamo combibo.",
+                          "status": "2FFFCC71-17F9-4D8B-958E-D99BE2366F6B",
+                          "emphasizedWordsIndices": [],
+                          "strongWordsIndices": []
+                        }
+                      }
+                    }
+                  }
+                ],
+                [
+                  {
+                    "id": "00735E25-48E3-41C6-B409-51DC5C955F6D",
+                    "type": "clause",
+                    "value": {
+                      "id": "803F167A-BFAC-4596-9772-7B2F769E69BB",
+                      "texts": {
+                        "arabic": {
+                          "value": "كاركير ديفايكو ارما سورديو اسسوميندا كيميناتيو دامناتيو قوام كيلير.",
+                          "status": "2FFFCC71-17F9-4D8B-958E-D99BE2366F6B",
+                          "emphasizedWordsIndices": [],
+                          "strongWordsIndices": []
+                        },
+                        "coptic": {
+                          "value": "Ⲕⲟⲙⲃⲩⲣⲟ ⲉⲁⲣⲩⲙ ⲥⲡⲟⲗⲓⲁⲧⲓⲟ ⲥⲩⲡⲡⲟⲛⲟ ⲁⲛⲓⲙⲁⲇⲃⲉⲣⲧⲟ ⲁⲗⲃⲉⲩⲥ ⲁⲗⲗⲁⲧⲩⲥ ⲃⲓⲥ ⲓⲙⲡⲉⲇⲓⲧ.",
+                          "status": "2FFFCC71-17F9-4D8B-958E-D99BE2366F6B",
+                          "emphasizedWordsIndices": [],
+                          "strongWordsIndices": []
+                        },
+                        "english": {
+                          "value": "Aspicio vorax verbum summopere ago denique maiores valde abduco iure cunabula.",
+                          "status": "2FFFCC71-17F9-4D8B-958E-D99BE2366F6B",
+                          "emphasizedWordsIndices": [],
+                          "strongWordsIndices": []
+                        },
+                        "german": {
+                          "value": "Xiphias veritatis curia officiis beatae crapula talus quis coaegresco.",
+                          "status": "2FFFCC71-17F9-4D8B-958E-D99BE2366F6B",
+                          "emphasizedWordsIndices": [],
+                          "strongWordsIndices": []
+                        }
+                      }
+                    }
+                  }
+                ],
+                [
+                  {
+                    "id": "ADDDAF52-C36F-420C-999C-9CD0581F2617",
+                    "type": "clause",
+                    "value": {
+                      "id": "156388DE-7479-48F5-B798-BEA01F7022CA",
+                      "texts": {
+                        "arabic": {
+                          "value": "كروديليس يست بيككو تيجو.",
+                          "status": "2FFFCC71-17F9-4D8B-958E-D99BE2366F6B",
+                          "emphasizedWordsIndices": [],
+                          "strongWordsIndices": []
+                        },
+                        "coptic": {
+                          "value": "Ⲃⲓⲣⲓⲇⲓⲥ ⲡⲉⲓⲟⲣ ⲁⲉⲧⲉⲣⲛⲩⲥ ⲁⲗⲃⲉⲩⲥ.",
+                          "status": "2FFFCC71-17F9-4D8B-958E-D99BE2366F6B",
+                          "emphasizedWordsIndices": [],
+                          "strongWordsIndices": []
+                        },
+                        "english": {
+                          "value": "Socius censura ubi ubi minus calcar.",
+                          "status": "2FFFCC71-17F9-4D8B-958E-D99BE2366F6B",
+                          "emphasizedWordsIndices": [],
+                          "strongWordsIndices": []
+                        },
+                        "german": {
+                          "value": "Nostrum delectatio desolo crux.",
+                          "status": "2FFFCC71-17F9-4D8B-958E-D99BE2366F6B",
+                          "emphasizedWordsIndices": [],
+                          "strongWordsIndices": []
+                        }
+                      }
+                    }
+                  }
+                ],
+                [
+                  {
+                    "id": "C5A0EE37-0808-40A1-B999-ED898C52A6E3",
+                    "type": "clause",
+                    "value": {
+                      "id": "DF85D96C-0350-4215-840D-0CB67C9865E0",
+                      "texts": {
+                        "arabic": {
+                          "value": "سولوتيو امو فينوم تهيساوروس بيس قواس.",
+                          "status": "2FFFCC71-17F9-4D8B-958E-D99BE2366F6B",
+                          "emphasizedWordsIndices": [],
+                          "strongWordsIndices": []
+                        },
+                        "coptic": {
+                          "value": "Ⲁⲥⲡⲉⲣⲓⲟⲣⲉⲥ ⲕⲟⲣⲛⲩ ⲧⲩⲧⲓⲥ ⲃⲉⲛⲧⲓⲧⲟ.",
+                          "status": "2FFFCC71-17F9-4D8B-958E-D99BE2366F6B",
+                          "emphasizedWordsIndices": [],
+                          "strongWordsIndices": []
+                        },
+                        "english": {
+                          "value": "Addo cado ademptio dens acceptus denuo.",
+                          "status": "2FFFCC71-17F9-4D8B-958E-D99BE2366F6B",
+                          "emphasizedWordsIndices": [],
+                          "strongWordsIndices": []
+                        },
+                        "german": {
+                          "value": "Solitudo strenuus sustineo solio nobis appello.",
+                          "status": "2FFFCC71-17F9-4D8B-958E-D99BE2366F6B",
+                          "emphasizedWordsIndices": [],
+                          "strongWordsIndices": []
+                        }
+                      }
+                    }
+                  }
+                ],
+                [
+                  {
+                    "id": "4A3BC54A-4A0F-44C6-A725-5C16A22EB0B2",
+                    "type": "clause",
+                    "value": {
+                      "id": "EE2475EB-43B4-4EA1-A038-0ACD797DCDE4",
+                      "texts": {
+                        "arabic": {
+                          "value": "كونكتاتيو التير ايقويتاس افاريتيا سوسبيندو الفيوس.",
+                          "status": "2FFFCC71-17F9-4D8B-958E-D99BE2366F6B",
+                          "emphasizedWordsIndices": [],
+                          "strongWordsIndices": []
+                        },
+                        "coptic": {
+                          "value": "Ⲃⲟⲗⲩⲡⲧⲁⲧⲉ ⲃⲩⲗⲡⲉⲥ ⲏⲁⲣⲩⲙ ⲁⲧⲣⲟⲕⲓⲧⲁⲥ ⲇⲩⲕⲓⲙⲩⲥ.",
+                          "status": "2FFFCC71-17F9-4D8B-958E-D99BE2366F6B",
+                          "emphasizedWordsIndices": [],
+                          "strongWordsIndices": []
+                        },
+                        "english": {
+                          "value": "Cetera demonstro calcar crebro.",
+                          "status": "2FFFCC71-17F9-4D8B-958E-D99BE2366F6B",
+                          "emphasizedWordsIndices": [],
+                          "strongWordsIndices": []
+                        },
+                        "german": {
+                          "value": "Cogito angulus tredecim amet.",
+                          "status": "2FFFCC71-17F9-4D8B-958E-D99BE2366F6B",
+                          "emphasizedWordsIndices": [],
+                          "strongWordsIndices": []
+                        }
+                      }
+                    }
+                  }
+                ],
+                [
+                  {
+                    "id": "231A06BB-E4FF-4B1B-A83C-BD5E78F7CD26",
+                    "type": "clause",
+                    "value": {
+                      "id": "418D9AF3-E364-4C5A-8D09-E6D30FC214FD",
+                      "texts": {
+                        "arabic": {
+                          "value": "كونسيديرو بياتوس اسبير خيبهياس تيرجيفيرساتيو سترينووس.",
+                          "status": "2FFFCC71-17F9-4D8B-958E-D99BE2366F6B",
+                          "emphasizedWordsIndices": [],
+                          "strongWordsIndices": []
+                        },
+                        "coptic": {
+                          "value": "Ⲧⲉⲛⲉⲧⲩⲣ ⲣⲁⲧⲓⲟⲛⲉ ⲧⲉⲝⲧⲓⲗⲓⲥ ⲁⲛⲅⲩⲥⲧⲩⲥ.",
+                          "status": "2FFFCC71-17F9-4D8B-958E-D99BE2366F6B",
+                          "emphasizedWordsIndices": [],
+                          "strongWordsIndices": []
+                        },
+                        "english": {
+                          "value": "Calco canonicus cribro baiulus.",
+                          "status": "2FFFCC71-17F9-4D8B-958E-D99BE2366F6B",
+                          "emphasizedWordsIndices": [],
+                          "strongWordsIndices": []
+                        },
+                        "german": {
+                          "value": "Aufero admoveo aufero spes calcar.",
+                          "status": "2FFFCC71-17F9-4D8B-958E-D99BE2366F6B",
+                          "emphasizedWordsIndices": [],
+                          "strongWordsIndices": []
+                        }
+                      }
+                    }
+                  }
+                ]
+              ]
+            }
+          ],
+          [
+            {
+              "id": "E576D299-EA31-486E-8101-01EB2F4DDB32",
+              "type": "paragraph",
+              "value": {
+                "id": "A53287FF-234C-419A-AB4B-E464ED42BE31",
+                "texts": {
+                  "arabic": {
+                    "value": "كاتينا ديدوكو اركوس فينتوس انسير",
+                    "status": "2FFFCC71-17F9-4D8B-958E-D99BE2366F6B",
+                    "emphasizedWordsIndices": [],
+                    "strongWordsIndices": []
+                  },
+                  "coptic": {
+                    "value": "Ⲇⲉⲕⲩⲙⲃⲟ Ⲁⲗⲧⲩⲥ Ⲕⲗⲁⲙ Ⲃⲩⲗⲅⲩⲥ Ⲁⲩⲫⲉⲣⲟ Ⲓⲡⲥⲩⲙ",
+                    "status": "2FFFCC71-17F9-4D8B-958E-D99BE2366F6B",
+                    "emphasizedWordsIndices": [],
+                    "strongWordsIndices": []
+                  },
+                  "english": {
+                    "value": "Temperantia Volubilis Valde Aperiam Vigor Cohibeo Colo",
+                    "status": "2FFFCC71-17F9-4D8B-958E-D99BE2366F6B",
+                    "emphasizedWordsIndices": [],
+                    "strongWordsIndices": []
+                  },
+                  "german": {
+                    "value": "Dedico Addo Absque Voluptatem Cumque Spectaculum",
+                    "status": "2FFFCC71-17F9-4D8B-958E-D99BE2366F6B",
+                    "emphasizedWordsIndices": [],
+                    "strongWordsIndices": []
+                  }
+                }
+              },
+              "children": [
+                [
+                  {
+                    "id": "224DC3BC-DD71-47D7-B239-A730424AFC24",
+                    "type": "clause",
+                    "value": {
+                      "id": "AD7393D1-141A-4678-9786-2097DFCFA546",
+                      "texts": {
+                        "arabic": {
+                          "value": "فاريوس تيريس سوبير.",
+                          "status": "2FFFCC71-17F9-4D8B-958E-D99BE2366F6B",
+                          "emphasizedWordsIndices": [],
+                          "strongWordsIndices": []
+                        },
+                        "coptic": {
+                          "value": "Ⲕⲟⲛⲥⲉⲕⲧⲉⲧⲩⲣ ⲥⲩⲃⲛⲉⲕⲧⲟ ⲕⲁⲙⲡⲁⲛⲁ.",
+                          "status": "2FFFCC71-17F9-4D8B-958E-D99BE2366F6B",
+                          "emphasizedWordsIndices": [],
+                          "strongWordsIndices": []
+                        },
+                        "english": {
+                          "value": "Cito tam vapulus tenax calco.",
+                          "status": "2FFFCC71-17F9-4D8B-958E-D99BE2366F6B",
+                          "emphasizedWordsIndices": [],
+                          "strongWordsIndices": []
+                        },
+                        "german": {
+                          "value": "Vacuus absum usus.",
+                          "status": "2FFFCC71-17F9-4D8B-958E-D99BE2366F6B",
+                          "emphasizedWordsIndices": [],
+                          "strongWordsIndices": []
+                        }
+                      }
+                    }
+                  }
+                ],
+                [
+                  {
+                    "id": "BA19ED9C-09FC-45D8-B182-4EAA359CC147",
+                    "type": "clause",
+                    "value": {
+                      "id": "0EBFA706-6215-4B02-A6DB-8050C0135025",
+                      "texts": {
+                        "arabic": {
+                          "value": "فيربيرا فيهيمينس كوميتيس كويبي توي كويركيو.",
+                          "status": "2FFFCC71-17F9-4D8B-958E-D99BE2366F6B",
+                          "emphasizedWordsIndices": [],
+                          "strongWordsIndices": []
+                        },
+                        "coptic": {
+                          "value": "Ⲕⲁⲃⲉⲟ ⲕⲟⲛⲓⲕⲓⲟ ⲃⲁⲗⲉⲟ ⲁⲃⲥⲕⲟⲛⲇⲓⲧⲩⲥ ⲧⲣⲓⲇⲩⲁⲛⲁ ⲁⲥⲡⲉⲣⲓⲟⲣⲉⲥ.",
+                          "status": "2FFFCC71-17F9-4D8B-958E-D99BE2366F6B",
+                          "emphasizedWordsIndices": [],
+                          "strongWordsIndices": []
+                        },
+                        "english": {
+                          "value": "Complectus decimus thesaurus dolor quasi comitatus in.",
+                          "status": "2FFFCC71-17F9-4D8B-958E-D99BE2366F6B",
+                          "emphasizedWordsIndices": [],
+                          "strongWordsIndices": []
+                        },
+                        "german": {
+                          "value": "Vindico sum vehemens campana absorbeo.",
+                          "status": "2FFFCC71-17F9-4D8B-958E-D99BE2366F6B",
+                          "emphasizedWordsIndices": [],
+                          "strongWordsIndices": []
+                        }
+                      }
+                    }
+                  }
+                ],
+                [
+                  {
+                    "id": "CAE6EB24-3D1B-4E31-B3DA-5C435DE0FB0A",
+                    "type": "clause",
+                    "value": {
+                      "id": "9161F776-4177-4CE6-AC75-98FBC13D3B61",
+                      "texts": {
+                        "arabic": {
+                          "value": "اجير ايت اركا فاكو سبيرو تروكيدو فادو امبيتوس.",
+                          "status": "2FFFCC71-17F9-4D8B-958E-D99BE2366F6B",
+                          "emphasizedWordsIndices": [],
+                          "strongWordsIndices": []
+                        },
+                        "coptic": {
+                          "value": "Ⲕⲩⲗⲧⲉⲗⲗⲩⲥ ⲃⲟⲗⲩⲛⲧⲁⲣⲓⲩⲥ ⲁⲕⲉⲣ ⲁⲇⲓⲙⲡⲗⲉⲟ ⲕⲟⲣⲣⲓⲅⲟ ⲕⲣⲩⲉⲛⲧⲩⲥ ⲁⲧⲧⲉⲣⲟ ⲧⲁⲙⲉⲛ ⲁⲣⲧⲟ.",
+                          "status": "2FFFCC71-17F9-4D8B-958E-D99BE2366F6B",
+                          "emphasizedWordsIndices": [],
+                          "strongWordsIndices": []
+                        },
+                        "english": {
+                          "value": "Traho solitudo videlicet virtus caste statua pauper.",
+                          "status": "2FFFCC71-17F9-4D8B-958E-D99BE2366F6B",
+                          "emphasizedWordsIndices": [],
+                          "strongWordsIndices": []
+                        },
+                        "german": {
+                          "value": "Celer possimus aranea cibus deserunt soleo tutis.",
+                          "status": "2FFFCC71-17F9-4D8B-958E-D99BE2366F6B",
+                          "emphasizedWordsIndices": [],
+                          "strongWordsIndices": []
+                        }
+                      }
+                    }
+                  }
+                ],
+                [
+                  {
+                    "id": "3596B199-C16B-42D6-A95F-919470A7F124",
+                    "type": "clause",
+                    "value": {
+                      "id": "873F0D26-8377-43DA-A616-18514D3044DF",
+                      "texts": {
+                        "arabic": {
+                          "value": "فيفو كومبونو افاريتيا ديبونو ديكيرنو دولوري.",
+                          "status": "2FFFCC71-17F9-4D8B-958E-D99BE2366F6B",
+                          "emphasizedWordsIndices": [],
+                          "strongWordsIndices": []
+                        },
+                        "coptic": {
+                          "value": "Ⲕⲩⲃⲟ ⲇⲉⲡⲟⲡⲩⲗⲟ ⲃⲟⲗⲩⲃⲓⲗⲓⲥ ⲩⲣⲃⲥ ⲁⲇⲙⲓⲣⲁⲧⲓⲟ ⲁⲛⲧⲓⲕⲩⲩⲥ ⲧⲁⲕⲧⲩⲥ.",
+                          "status": "2FFFCC71-17F9-4D8B-958E-D99BE2366F6B",
+                          "emphasizedWordsIndices": [],
+                          "strongWordsIndices": []
+                        },
+                        "english": {
+                          "value": "Conitor canto vaco ante coepi solitudo.",
+                          "status": "2FFFCC71-17F9-4D8B-958E-D99BE2366F6B",
+                          "emphasizedWordsIndices": [],
+                          "strongWordsIndices": []
+                        },
+                        "german": {
+                          "value": "Terror depopulo terga convoco decor combibo deprimo clementia.",
+                          "status": "2FFFCC71-17F9-4D8B-958E-D99BE2366F6B",
+                          "emphasizedWordsIndices": [],
+                          "strongWordsIndices": []
+                        }
+                      }
+                    }
+                  }
+                ],
+                [
+                  {
+                    "id": "7BE3A5AF-F12D-4BCB-A494-5AB23AF94488",
+                    "type": "clause",
+                    "value": {
+                      "id": "CC9D3012-6CCE-403A-95CF-DC8943B82A05",
+                      "texts": {
+                        "arabic": {
+                          "value": "فاكيري بروفيدينت اككوساموس فوس تانتيللوس سوففيكيو تراكتو تروكولينتير يليجيندي كوميدو اسبورتو ديكور.",
+                          "status": "2FFFCC71-17F9-4D8B-958E-D99BE2366F6B",
+                          "emphasizedWordsIndices": [],
+                          "strongWordsIndices": []
+                        },
+                        "coptic": {
+                          "value": "Ⲕⲁⲗⲗⲓⲇⲉ ⲇⲉⲡⲣⲓⲙⲟ ⲃⲉⲣⲓⲧⲁⲧⲓⲥ ⲛⲩⲗⲗⲁ ⲁⲡⲡⲟⲥⲓⲧⲩⲥ ⲕⲩⲗⲧⲩⲣⲁ ⲥⲟⲇⲁⲗⲓⲧⲁⲥ ⲕⲁⲥⲩⲥ ⲁⲛⲧⲉⲁ ⲕⲉⲗⲉⲃⲣⲉⲣ ⲕⲓⲃⲓⲥ ⲩⲥⲧⲩⲗⲟ ⲁⲡⲡⲁⲣⲁⲧⲩⲥ.",
+                          "status": "2FFFCC71-17F9-4D8B-958E-D99BE2366F6B",
+                          "emphasizedWordsIndices": [],
+                          "strongWordsIndices": []
+                        },
+                        "english": {
+                          "value": "Undique virtus calamitas coaegresco tracto vivo dens velociter apud voluptas degusto casus credo.",
+                          "status": "2FFFCC71-17F9-4D8B-958E-D99BE2366F6B",
+                          "emphasizedWordsIndices": [],
+                          "strongWordsIndices": []
+                        },
+                        "german": {
+                          "value": "Sollicito terra creptio carcer inflammatio ipsa fuga titulus uter ait vulgus tego sint.",
+                          "status": "2FFFCC71-17F9-4D8B-958E-D99BE2366F6B",
+                          "emphasizedWordsIndices": [],
+                          "strongWordsIndices": []
+                        }
+                      }
+                    }
+                  }
+                ],
+                [
+                  {
+                    "id": "86AA1ABF-92A9-4D6D-9DA3-C7466193CDD0",
+                    "type": "clause",
+                    "value": {
+                      "id": "FA14647F-64B2-480C-91FE-6F2E9C183585",
+                      "texts": {
+                        "arabic": {
+                          "value": "فينديكو اينيوس بيككو وتيقوي تيرجيو توتيس ابسكيدو ادفينيو.",
+                          "status": "2FFFCC71-17F9-4D8B-958E-D99BE2366F6B",
+                          "emphasizedWordsIndices": [],
+                          "strongWordsIndices": []
+                        },
+                        "coptic": {
+                          "value": "Ⲁⲃⲥⲧⲉⲣⲅⲟ ⲥⲟⲗⲓⲟ ⲕⲩⲗⲡⲟ ⲃⲓⲇⲉⲗⲓⲕⲉⲧ ⲕⲓⲕⲩⲧⲁ ⲧⲏⲉⲕⲁ.",
+                          "status": "2FFFCC71-17F9-4D8B-958E-D99BE2366F6B",
+                          "emphasizedWordsIndices": [],
+                          "strongWordsIndices": []
+                        },
+                        "english": {
+                          "value": "Capitulus audeo totidem decerno crinis iusto coma tepidus.",
+                          "status": "2FFFCC71-17F9-4D8B-958E-D99BE2366F6B",
+                          "emphasizedWordsIndices": [],
+                          "strongWordsIndices": []
+                        },
+                        "german": {
+                          "value": "Angulus capio vis tamen trans benigne theca.",
+                          "status": "2FFFCC71-17F9-4D8B-958E-D99BE2366F6B",
+                          "emphasizedWordsIndices": [],
+                          "strongWordsIndices": []
+                        }
+                      }
+                    }
+                  }
+                ]
+              ]
+            }
+          ],
+          [
+            {
+              "id": "EFAF9F29-85DF-4955-B590-335B975DA471",
+              "type": "paragraph",
+              "value": {
+                "id": "EDC83285-F598-43CA-AA64-9A54363077D2",
+                "texts": {
+                  "arabic": {
+                    "value": "يللوم كورتو كريدو كونسبيرجو",
+                    "status": "2FFFCC71-17F9-4D8B-958E-D99BE2366F6B",
+                    "emphasizedWordsIndices": [],
+                    "strongWordsIndices": []
+                  },
+                  "coptic": {
+                    "value": "Ⲃⲉⲛⲧⲓⲧⲟ Ⲧⲣⲉⲙⲟ Ⲁⲇⲩⲣⲟ Ⲕⲩⲡⲓⲇⲓⲧⲁⲥ Ⲇⲉⲡⲟⲣⲧⲟ Ⲇⲉⲗⲩⲇⲟ",
+                    "status": "2FFFCC71-17F9-4D8B-958E-D99BE2366F6B",
+                    "emphasizedWordsIndices": [],
+                    "strongWordsIndices": []
+                  },
+                  "english": {
+                    "value": "Atrocitas Ex Angelus Autus Vergo Auditor",
+                    "status": "2FFFCC71-17F9-4D8B-958E-D99BE2366F6B",
+                    "emphasizedWordsIndices": [],
+                    "strongWordsIndices": []
+                  },
+                  "german": {
+                    "value": "Adduco Adamo Tot Causa Tutis Quibusdam",
+                    "status": "2FFFCC71-17F9-4D8B-958E-D99BE2366F6B",
+                    "emphasizedWordsIndices": [],
+                    "strongWordsIndices": []
+                  }
+                }
+              },
+              "children": [
+                [
+                  {
+                    "id": "62379D0D-7CE4-4702-AEC3-B0C633B8BA86",
+                    "type": "clause",
+                    "value": {
+                      "id": "759D6EA9-1911-4998-A191-143907D42719",
+                      "texts": {
+                        "arabic": {
+                          "value": "كوبيو توي يا ديليبيرو كوللوم سبولياتيو سيت كالكار نيسي.",
+                          "status": "2FFFCC71-17F9-4D8B-958E-D99BE2366F6B",
+                          "emphasizedWordsIndices": [],
+                          "strongWordsIndices": []
+                        },
+                        "coptic": {
+                          "value": "Ⲕⲣⲩⲇⲉⲗⲓⲥ ⲧⲉⲣⲣⲓⲧⲟ ⲕⲟⲙⲉⲇⲟ ⲥⲟⲗⲩⲙ ⲇⲉⲕⲟⲣ ⲥⲩⲙⲙⲟⲡⲉⲣⲉ ⲓⲥⲧⲉ ⲇⲉⲅⲉⲛⲉⲣⲟ.",
+                          "status": "2FFFCC71-17F9-4D8B-958E-D99BE2366F6B",
+                          "emphasizedWordsIndices": [],
+                          "strongWordsIndices": []
+                        },
+                        "english": {
+                          "value": "Adeptio tibi cupio odio strenuus corpus cuius theatrum decet.",
+                          "status": "2FFFCC71-17F9-4D8B-958E-D99BE2366F6B",
+                          "emphasizedWordsIndices": [],
+                          "strongWordsIndices": []
+                        },
+                        "german": {
+                          "value": "Adicio ubi demonstro una crepusculum aduro fugiat pecus bardus traho.",
+                          "status": "2FFFCC71-17F9-4D8B-958E-D99BE2366F6B",
+                          "emphasizedWordsIndices": [],
+                          "strongWordsIndices": []
+                        }
+                      }
+                    }
+                  }
+                ],
+                [
+                  {
+                    "id": "FFD45E3C-D2D6-4DB9-B586-A16ABFA4BB70",
+                    "type": "clause",
+                    "value": {
+                      "id": "944380E1-CC98-451D-9079-35D40C4113EE",
+                      "texts": {
+                        "arabic": {
+                          "value": "سوبير بريفيس بوررو كلامو ديبوبولو سوبور.",
+                          "status": "2FFFCC71-17F9-4D8B-958E-D99BE2366F6B",
+                          "emphasizedWordsIndices": [],
+                          "strongWordsIndices": []
+                        },
+                        "coptic": {
+                          "value": "Ⲉⲝ ⲧⲣⲓⲥⲧⲓⲥ ⲕⲟⲛⲧⲩⲣⲃⲟ ⲁⲣⲅⲉⲛⲧⲩⲙ ⲕⲁⲡⲩⲧ.",
+                          "status": "2FFFCC71-17F9-4D8B-958E-D99BE2366F6B",
+                          "emphasizedWordsIndices": [],
+                          "strongWordsIndices": []
+                        },
+                        "english": {
+                          "value": "Celer cohaero tenus earum coaegresco tabella surculus.",
+                          "status": "2FFFCC71-17F9-4D8B-958E-D99BE2366F6B",
+                          "emphasizedWordsIndices": [],
+                          "strongWordsIndices": []
+                        },
+                        "german": {
+                          "value": "Aeger atrox arguo cotidie itaque alienus tego.",
+                          "status": "2FFFCC71-17F9-4D8B-958E-D99BE2366F6B",
+                          "emphasizedWordsIndices": [],
+                          "strongWordsIndices": []
+                        }
+                      }
+                    }
+                  }
+                ],
+                [
+                  {
+                    "id": "FC2225D2-48A4-45AA-8B69-1972A9503359",
+                    "type": "clause",
+                    "value": {
+                      "id": "262418CB-967C-4910-AF58-56EF42071DC1",
+                      "texts": {
+                        "arabic": {
+                          "value": "ومقوام قوي كومبيبو فيكينوس ارانيا.",
+                          "status": "2FFFCC71-17F9-4D8B-958E-D99BE2366F6B",
+                          "emphasizedWordsIndices": [],
+                          "strongWordsIndices": []
+                        },
+                        "coptic": {
+                          "value": "Ⲕⲟⲏⲟⲣⲥ ⲥⲩⲃⲛⲉⲕⲧⲟ ⲁⲃⲁⲣⲓⲧⲓⲁ ⲧⲟⲛⲥⲟⲣ ⲕⲗⲁⲣⲟ ⲃⲓⲗⲗⲁ ⲧⲉⲛⲇⲟ.",
+                          "status": "2FFFCC71-17F9-4D8B-958E-D99BE2366F6B",
+                          "emphasizedWordsIndices": [],
+                          "strongWordsIndices": []
+                        },
+                        "english": {
+                          "value": "Laborum vito acquiro vesica cometes.",
+                          "status": "2FFFCC71-17F9-4D8B-958E-D99BE2366F6B",
+                          "emphasizedWordsIndices": [],
+                          "strongWordsIndices": []
+                        },
+                        "german": {
+                          "value": "Quasi cogito pecus viscus tenax.",
+                          "status": "2FFFCC71-17F9-4D8B-958E-D99BE2366F6B",
+                          "emphasizedWordsIndices": [],
+                          "strongWordsIndices": []
+                        }
+                      }
+                    }
+                  }
+                ],
+                [
+                  {
+                    "id": "30556377-156A-4EEF-A29A-6D3BC340437A",
+                    "type": "clause",
+                    "value": {
+                      "id": "B995BB31-9A83-4468-8DB8-C271C33CE114",
+                      "texts": {
+                        "arabic": {
+                          "value": "نومقوام فوتوم ابوتور فوفيو فيكتوس تاليس سولليكيتو بييور كوراتيو.",
+                          "status": "2FFFCC71-17F9-4D8B-958E-D99BE2366F6B",
+                          "emphasizedWordsIndices": [],
+                          "strongWordsIndices": []
+                        },
+                        "coptic": {
+                          "value": "Ⲕⲟⲙⲉⲥ ⲕⲟⲛⲥⲧⲁⲛⲥ ⲃⲓⲥ ⲥⲧⲁⲧⲓⲙ ⲃⲓⲣⲅⲁ ⲃⲟⲗⲃⲁ ⲧⲟⲧⲩⲥ ⲁⲅⲛⲓⲧⲓⲟ.",
+                          "status": "2FFFCC71-17F9-4D8B-958E-D99BE2366F6B",
+                          "emphasizedWordsIndices": [],
+                          "strongWordsIndices": []
+                        },
+                        "english": {
+                          "value": "Modi explicabo adhuc alter rerum communis tredecim accusantium acceptus.",
+                          "status": "2FFFCC71-17F9-4D8B-958E-D99BE2366F6B",
+                          "emphasizedWordsIndices": [],
+                          "strongWordsIndices": []
+                        },
+                        "german": {
+                          "value": "Asper ait teneo tam aegrus alter cedo.",
+                          "status": "2FFFCC71-17F9-4D8B-958E-D99BE2366F6B",
+                          "emphasizedWordsIndices": [],
+                          "strongWordsIndices": []
+                        }
+                      }
+                    }
+                  }
+                ],
+                [
+                  {
+                    "id": "1242372C-0774-4419-8571-67EF29A559A2",
+                    "type": "clause",
+                    "value": {
+                      "id": "C7E9B94F-9FC7-435E-B234-F62FB4643599",
+                      "texts": {
+                        "arabic": {
+                          "value": "اننوس سوببونو ادسويسكو تيررور كوجنومين تيستيمونيوم اركهيتيكتو ونوس ابسكيدو.",
+                          "status": "2FFFCC71-17F9-4D8B-958E-D99BE2366F6B",
+                          "emphasizedWordsIndices": [],
+                          "strongWordsIndices": []
+                        },
+                        "coptic": {
+                          "value": "Ⲃⲟⲗⲟ ⲕⲣⲁⲥⲧⲓⲛⲩⲥ ⲕⲩⲓ ⲧⲣⲓⲃⲩⲟ ⲓⲩⲥⲧⲟ ⲧⲉⲅⲟ ⲉⲝⲉⲣⲕⲓⲧⲁⲧⲓⲟⲛⲉⲙ ⲕⲟⲛⲫⲩⲅⲟ ⲧⲉⲛⲉⲧⲩⲣ ⲁⲕⲕⲉⲡⲧⲩⲥ.",
+                          "status": "2FFFCC71-17F9-4D8B-958E-D99BE2366F6B",
+                          "emphasizedWordsIndices": [],
+                          "strongWordsIndices": []
+                        },
+                        "english": {
+                          "value": "Clamo constans cubitum truculenter voluptatum necessitatibus fugiat debilito abundans.",
+                          "status": "2FFFCC71-17F9-4D8B-958E-D99BE2366F6B",
+                          "emphasizedWordsIndices": [],
+                          "strongWordsIndices": []
+                        },
+                        "german": {
+                          "value": "Adsuesco corrupti amicitia claustrum damnatio degenero approbo adhaero addo totus.",
+                          "status": "2FFFCC71-17F9-4D8B-958E-D99BE2366F6B",
+                          "emphasizedWordsIndices": [],
+                          "strongWordsIndices": []
+                        }
+                      }
+                    }
+                  }
+                ]
+              ]
+            }
+          ],
+          [
+            {
+              "id": "E8F9613B-E358-4C3F-867C-55A1BD885746",
+              "type": "paragraph",
+              "value": {
+                "id": "94763463-F580-4FD0-BA49-6F08C9110947",
+                "texts": {
+                  "arabic": {
+                    "value": "ابباس",
+                    "status": "2FFFCC71-17F9-4D8B-958E-D99BE2366F6B",
+                    "emphasizedWordsIndices": [],
+                    "strongWordsIndices": []
+                  },
+                  "coptic": {
+                    "value": "Ⲕⲟⲛⲧⲓⲅⲟ Ⲕⲣⲁⲥⲧⲓⲛⲩⲥ",
+                    "status": "2FFFCC71-17F9-4D8B-958E-D99BE2366F6B",
+                    "emphasizedWordsIndices": [],
+                    "strongWordsIndices": []
+                  },
+                  "english": {
+                    "value": "Distinctio",
+                    "status": "2FFFCC71-17F9-4D8B-958E-D99BE2366F6B",
+                    "emphasizedWordsIndices": [],
+                    "strongWordsIndices": []
+                  },
+                  "german": {
+                    "value": "Tamdiu",
+                    "status": "2FFFCC71-17F9-4D8B-958E-D99BE2366F6B",
+                    "emphasizedWordsIndices": [],
+                    "strongWordsIndices": []
+                  }
+                }
+              },
+              "children": [
+                [
+                  {
+                    "id": "4003F7D6-6582-4A0D-B0A9-9E8AB9ACDAAB",
+                    "type": "clause",
+                    "value": {
+                      "id": "50C2F623-5CB3-4040-B8C1-7449F8051781",
+                      "texts": {
+                        "arabic": {
+                          "value": "تاميسيوم كورروبتي سبيرو فيسبيللو توليرو وميروس فيري ادهايرو وتور كلاروس كانونيكوس.",
+                          "status": "2FFFCC71-17F9-4D8B-958E-D99BE2366F6B",
+                          "emphasizedWordsIndices": [],
+                          "strongWordsIndices": []
+                        },
+                        "coptic": {
+                          "value": "Ⲕⲁⲣⲕⲉⲣ ⲇⲉⲫⲉⲣⲟ ⲕⲩⲓⲁ ⲕⲟⲗⲗⲓⲅⲟ ⲁⲩⲇⲓⲧⲟⲣ ⲁⲛⲅⲩⲥⲧⲩⲥ ⲧⲣⲉⲙⲟ ⲃⲉⲛⲧⲓⲧⲟ ⲡⲁⲩⲡⲉⲣ ⲥⲟⲗⲃⲟ ⲁⲛⲧⲉⲡⲟⲛⲟ.",
+                          "status": "2FFFCC71-17F9-4D8B-958E-D99BE2366F6B",
+                          "emphasizedWordsIndices": [],
+                          "strongWordsIndices": []
+                        },
+                        "english": {
+                          "value": "Praesentium approbo arcus vereor advoco circumvenio animi cras territo cupiditate.",
+                          "status": "2FFFCC71-17F9-4D8B-958E-D99BE2366F6B",
+                          "emphasizedWordsIndices": [],
+                          "strongWordsIndices": []
+                        },
+                        "german": {
+                          "value": "Cupiditate dapifer depereo utilis tremo tonsor debitis perferendis ea.",
+                          "status": "2FFFCC71-17F9-4D8B-958E-D99BE2366F6B",
+                          "emphasizedWordsIndices": [],
+                          "strongWordsIndices": []
+                        }
+                      }
+                    }
+                  }
+                ],
+                [
+                  {
+                    "id": "F9DFA589-8E89-4F92-B409-5829170DF0C2",
+                    "type": "clause",
+                    "value": {
+                      "id": "17BA3CDB-619D-4B72-A0CD-53908A7792EE",
+                      "texts": {
+                        "arabic": {
+                          "value": "بيكتو فورو ايقويتاس تيرريو اككيدو سومبتوس اليقويد اديبيسكور.",
+                          "status": "2FFFCC71-17F9-4D8B-958E-D99BE2366F6B",
+                          "emphasizedWordsIndices": [],
+                          "strongWordsIndices": []
+                        },
+                        "coptic": {
+                          "value": "Ⲕⲣⲉⲃⲣⲟ ⲕⲩⲃⲟ ⲇⲉⲫⲗⲩⲟ ⲕⲩⲓⲩⲥ ⲕⲣⲉⲇⲟ ⲇⲉⲙⲉⲛⲥ.",
+                          "status": "2FFFCC71-17F9-4D8B-958E-D99BE2366F6B",
+                          "emphasizedWordsIndices": [],
+                          "strongWordsIndices": []
+                        },
+                        "english": {
+                          "value": "Molestiae solum absconditus cur bestia adficio voluntarius urbanus.",
+                          "status": "2FFFCC71-17F9-4D8B-958E-D99BE2366F6B",
+                          "emphasizedWordsIndices": [],
+                          "strongWordsIndices": []
+                        },
+                        "german": {
+                          "value": "Paens suus vomer animi exercitationem ciminatio.",
+                          "status": "2FFFCC71-17F9-4D8B-958E-D99BE2366F6B",
+                          "emphasizedWordsIndices": [],
+                          "strongWordsIndices": []
+                        }
+                      }
+                    }
+                  }
+                ],
+                [
+                  {
+                    "id": "C093909E-3312-4A2D-9D7C-93DC4A03BBD1",
+                    "type": "clause",
+                    "value": {
+                      "id": "7C672436-6A6B-4B66-885A-D87F4DA0128B",
+                      "texts": {
+                        "arabic": {
+                          "value": "دينونكيو ادولاتيو كوراتيو اتتيرو ابوتور.",
+                          "status": "2FFFCC71-17F9-4D8B-958E-D99BE2366F6B",
+                          "emphasizedWordsIndices": [],
+                          "strongWordsIndices": []
+                        },
+                        "coptic": {
+                          "value": "Ⲩⲛⲓⲃⲉⲣⲥⲉ ⲕⲟⲛⲇⲓⲕⲟ ⲧⲉⲛⲉⲣ.",
+                          "status": "2FFFCC71-17F9-4D8B-958E-D99BE2366F6B",
+                          "emphasizedWordsIndices": [],
+                          "strongWordsIndices": []
+                        },
+                        "english": {
+                          "value": "Capitulus ustulo tardus talio victus.",
+                          "status": "2FFFCC71-17F9-4D8B-958E-D99BE2366F6B",
+                          "emphasizedWordsIndices": [],
+                          "strongWordsIndices": []
+                        },
+                        "german": {
+                          "value": "Ocer terga clarus.",
+                          "status": "2FFFCC71-17F9-4D8B-958E-D99BE2366F6B",
+                          "emphasizedWordsIndices": [],
+                          "strongWordsIndices": []
+                        }
+                      }
+                    }
+                  }
+                ]
+              ]
+            }
+          ],
+          [
+            {
+              "id": "E947FEAB-603D-4FE8-8980-8C5028AE6211",
+              "type": "paragraph",
+              "value": {
+                "id": "50C7F3E2-337B-4FD5-B735-F0EBF6107CE9",
+                "texts": {
+                  "arabic": {
+                    "value": "ادامو",
+                    "status": "2FFFCC71-17F9-4D8B-958E-D99BE2366F6B",
+                    "emphasizedWordsIndices": [],
+                    "strongWordsIndices": []
+                  },
+                  "coptic": {
+                    "value": "",
+                    "status": "2FFFCC71-17F9-4D8B-958E-D99BE2366F6B",
+                    "emphasizedWordsIndices": [],
+                    "strongWordsIndices": []
+                  },
+                  "english": {
+                    "value": "Theatrum Acsi",
+                    "status": "2FFFCC71-17F9-4D8B-958E-D99BE2366F6B",
+                    "emphasizedWordsIndices": [],
+                    "strongWordsIndices": []
+                  },
+                  "german": {
+                    "value": "Cogo",
+                    "status": "2FFFCC71-17F9-4D8B-958E-D99BE2366F6B",
+                    "emphasizedWordsIndices": [],
+                    "strongWordsIndices": []
+                  }
+                }
+              },
+              "children": [
+                [
+                  {
+                    "id": "C748903A-7698-4A0E-AC60-B11A4D87A4AD",
+                    "type": "clause",
+                    "value": {
+                      "id": "B0C5E99B-0C91-4A59-874E-E300F6114EC4",
+                      "texts": {
+                        "arabic": {
+                          "value": "فيستيجيوم فيرسوس وتير ادولاتيو مايوريس فيدوو كالكو.",
+                          "status": "2FFFCC71-17F9-4D8B-958E-D99BE2366F6B",
+                          "emphasizedWordsIndices": [],
+                          "strongWordsIndices": []
+                        },
+                        "coptic": {
+                          "value": "Ⲥⲩⲗⲩⲙ ⲕⲩⲃⲓⲧⲩⲙ ⲁⲣⲕⲉⲟ ⲕⲟⲣⲣⲟⲃⲟⲣⲟ ⲁⲕⲕⲉⲡⲧⲩⲥ ⲁⲣⲁ ⲕⲩⲟⲥ.",
+                          "status": "2FFFCC71-17F9-4D8B-958E-D99BE2366F6B",
+                          "emphasizedWordsIndices": [],
+                          "strongWordsIndices": []
+                        },
+                        "english": {
+                          "value": "Denuo cras aliquid aliqua ex virga amicitia appello.",
+                          "status": "2FFFCC71-17F9-4D8B-958E-D99BE2366F6B",
+                          "emphasizedWordsIndices": [],
+                          "strongWordsIndices": []
+                        },
+                        "german": {
+                          "value": "Hic casus ambitus tero quae supellex veniam cohibeo.",
+                          "status": "2FFFCC71-17F9-4D8B-958E-D99BE2366F6B",
+                          "emphasizedWordsIndices": [],
+                          "strongWordsIndices": []
+                        }
+                      }
+                    }
+                  }
+                ],
+                [
+                  {
+                    "id": "B9715FDD-4E15-4F87-8326-120BFF7D6048",
+                    "type": "clause",
+                    "value": {
+                      "id": "80FC2C22-558E-45D7-B5B4-7E4CF1123F69",
+                      "texts": {
+                        "arabic": {
+                          "value": "ابدوكو اببوسيتوس باتروكينور.",
+                          "status": "2FFFCC71-17F9-4D8B-958E-D99BE2366F6B",
+                          "emphasizedWordsIndices": [],
+                          "strongWordsIndices": []
+                        },
+                        "coptic": {
+                          "value": "Ⲥⲩⲡⲡⲟⲛⲟ ⲕⲉⲗⲉⲣ ⲕⲣⲩⲥⲧⲩⲗⲩⲙ ⲡⲁⲧⲣⲩⲩⲥ.",
+                          "status": "2FFFCC71-17F9-4D8B-958E-D99BE2366F6B",
+                          "emphasizedWordsIndices": [],
+                          "strongWordsIndices": []
+                        },
+                        "english": {
+                          "value": "Uter certus tenax.",
+                          "status": "2FFFCC71-17F9-4D8B-958E-D99BE2366F6B",
+                          "emphasizedWordsIndices": [],
+                          "strongWordsIndices": []
+                        },
+                        "german": {
+                          "value": "Accendo attonbitus.",
+                          "status": "2FFFCC71-17F9-4D8B-958E-D99BE2366F6B",
+                          "emphasizedWordsIndices": [],
+                          "strongWordsIndices": []
+                        }
+                      }
+                    }
+                  }
+                ],
+                [
+                  {
+                    "id": "5462D5C4-73A5-4A87-ABA8-48AFA3335ECE",
+                    "type": "clause",
+                    "value": {
+                      "id": "E2FE34DA-EBC1-42C9-BC7D-9268BDA10293",
+                      "texts": {
+                        "arabic": {
+                          "value": "تهوراخ ابسكونديتوس كونسبيرجو كورنو.",
+                          "status": "2FFFCC71-17F9-4D8B-958E-D99BE2366F6B",
+                          "emphasizedWordsIndices": [],
+                          "strongWordsIndices": []
+                        },
+                        "coptic": {
+                          "value": "Ⲁⲛⲛⲩⲥ ⲁⲙⲡⲗⲓⲧⲩⲇⲟ ⲁⲇⲃⲉⲣⲥⲩⲥ ⲉⲟⲥ ⲧⲏⲉⲕⲁ.",
+                          "status": "2FFFCC71-17F9-4D8B-958E-D99BE2366F6B",
+                          "emphasizedWordsIndices": [],
+                          "strongWordsIndices": []
+                        },
+                        "english": {
+                          "value": "Aegrotatio textilis custodia tardus.",
+                          "status": "2FFFCC71-17F9-4D8B-958E-D99BE2366F6B",
+                          "emphasizedWordsIndices": [],
+                          "strongWordsIndices": []
+                        },
+                        "german": {
+                          "value": "Spargo comitatus harum surgo.",
+                          "status": "2FFFCC71-17F9-4D8B-958E-D99BE2366F6B",
+                          "emphasizedWordsIndices": [],
+                          "strongWordsIndices": []
+                        }
+                      }
+                    }
+                  }
+                ]
+              ]
+            }
+          ],
+          [
+            {
+              "id": "D53FB77E-7C1C-43AA-8C9A-F13BDDDD0554",
+              "type": "paragraph",
+              "value": {
+                "id": "5EC3B050-ED76-4006-8752-60D09F10048C",
+                "texts": {
+                  "arabic": {
+                    "value": "نيسكيونت ارجومينتوم",
+                    "status": "2FFFCC71-17F9-4D8B-958E-D99BE2366F6B",
+                    "emphasizedWordsIndices": [],
+                    "strongWordsIndices": []
+                  },
+                  "coptic": {
+                    "value": "Ⲇⲟⲗⲟⲣⲓⲃⲩⲥ",
+                    "status": "2FFFCC71-17F9-4D8B-958E-D99BE2366F6B",
+                    "emphasizedWordsIndices": [],
+                    "strongWordsIndices": []
+                  },
+                  "english": {
+                    "value": "Turba Tam",
+                    "status": "2FFFCC71-17F9-4D8B-958E-D99BE2366F6B",
+                    "emphasizedWordsIndices": [],
+                    "strongWordsIndices": []
+                  },
+                  "german": {
+                    "value": "Abscido",
+                    "status": "2FFFCC71-17F9-4D8B-958E-D99BE2366F6B",
+                    "emphasizedWordsIndices": [],
+                    "strongWordsIndices": []
+                  }
+                }
+              },
+              "children": [
+                [
+                  {
+                    "id": "E9AE6A30-225B-4A35-9623-433DE940741F",
+                    "type": "clause",
+                    "value": {
+                      "id": "0C428D7D-849E-49C8-85A1-6C2B262BEB0A",
+                      "texts": {
+                        "arabic": {
+                          "value": "بياتاي ريروم كوللوم.",
+                          "status": "2FFFCC71-17F9-4D8B-958E-D99BE2366F6B",
+                          "emphasizedWordsIndices": [],
+                          "strongWordsIndices": []
+                        },
+                        "coptic": {
+                          "value": "Ⲁⲇⲇⲩⲕⲟ ⲃⲓⲣⲅⲁ ⲇⲉⲡⲉⲣⲉⲟ.",
+                          "status": "2FFFCC71-17F9-4D8B-958E-D99BE2366F6B",
+                          "emphasizedWordsIndices": [],
+                          "strongWordsIndices": []
+                        },
+                        "english": {
+                          "value": "Peccatus averto facere.",
+                          "status": "2FFFCC71-17F9-4D8B-958E-D99BE2366F6B",
+                          "emphasizedWordsIndices": [],
+                          "strongWordsIndices": []
+                        },
+                        "german": {
+                          "value": "Vulgus cura.",
+                          "status": "2FFFCC71-17F9-4D8B-958E-D99BE2366F6B",
+                          "emphasizedWordsIndices": [],
+                          "strongWordsIndices": []
+                        }
+                      }
+                    }
+                  }
+                ]
+              ]
+            }
+          ],
+          [
+            {
+              "id": "0D178E4F-7DB0-4B94-B228-38A0461AF1FA",
+              "type": "paragraph",
+              "value": {
+                "id": "639001B0-17D3-40AE-A117-1D19E6E03998",
+                "texts": {
+                  "arabic": {
+                    "value": "تينير كينا دينونكيو كيتو كونكيدو ومقوام",
+                    "status": "2FFFCC71-17F9-4D8B-958E-D99BE2366F6B",
+                    "emphasizedWordsIndices": [],
+                    "strongWordsIndices": []
+                  },
+                  "coptic": {
+                    "value": "Ⲃⲉⲣⲓⲧⲁⲧⲓⲥ Ⲥⲩⲃ Ⲧⲏⲁⲗⲁⲥⲥⲓⲛⲩⲥ Ⲕⲟⲙⲡⲗⲉⲕⲧⲩⲥ",
+                    "status": "2FFFCC71-17F9-4D8B-958E-D99BE2366F6B",
+                    "emphasizedWordsIndices": [],
+                    "strongWordsIndices": []
+                  },
+                  "english": {
+                    "value": "Amicitia Aer Cultellus Conculco",
+                    "status": "2FFFCC71-17F9-4D8B-958E-D99BE2366F6B",
+                    "emphasizedWordsIndices": [],
+                    "strongWordsIndices": []
+                  },
+                  "german": {
+                    "value": "Cubitum Capio Canis Depromo Animus Auxilium",
+                    "status": "2FFFCC71-17F9-4D8B-958E-D99BE2366F6B",
+                    "emphasizedWordsIndices": [],
+                    "strongWordsIndices": []
+                  }
+                }
+              },
+              "children": [
+                [
+                  {
+                    "id": "695A6332-EE0C-4CC7-8FB3-2B8DBD5B840B",
+                    "type": "clause",
+                    "value": {
+                      "id": "4A05CB6A-22D9-467B-B04D-9B4F07BD6E66",
+                      "texts": {
+                        "arabic": {
+                          "value": "انكيللا ايديفيكيوم بينيفولينتيا ديسبيكتو سيقوي كوهيبيو اججيرو كونيكيو ايديفيكيوم دامناتيو اداوجيو.",
+                          "status": "2FFFCC71-17F9-4D8B-958E-D99BE2366F6B",
+                          "emphasizedWordsIndices": [],
+                          "strongWordsIndices": []
+                        },
+                        "coptic": {
+                          "value": "Ⲕⲟⲛⲥⲩⲁⲥⲟⲣ ⲥⲟⲗⲓⲟ ⲥⲧⲓⲗⲗⲓⲕⲓⲇⲓⲩⲙ ⲃⲉⲣⲩⲙⲧⲁⲙⲉⲛ ⲃⲓⲣⲓⲗⲓⲧⲉⲣ ⲟⲫⲫⲓⲕⲓⲓⲥ ⲁⲗⲓⲩⲥ ⲁⲣⲧⲓⲫⲓⲕⲓⲟⲥⲉ ⲕⲟⲛⲃⲉⲛⲧⲩⲥ.",
+                          "status": "2FFFCC71-17F9-4D8B-958E-D99BE2366F6B",
+                          "emphasizedWordsIndices": [],
+                          "strongWordsIndices": []
+                        },
+                        "english": {
+                          "value": "Aspernatur infit vociferor stipes nulla consectetur tantum paens tardus suppono.",
+                          "status": "2FFFCC71-17F9-4D8B-958E-D99BE2366F6B",
+                          "emphasizedWordsIndices": [],
+                          "strongWordsIndices": []
+                        },
+                        "german": {
+                          "value": "Cattus asporto concido contra canonicus turpis suasoria sursum decens sum.",
+                          "status": "2FFFCC71-17F9-4D8B-958E-D99BE2366F6B",
+                          "emphasizedWordsIndices": [],
+                          "strongWordsIndices": []
+                        }
+                      }
+                    }
+                  }
+                ],
+                [
+                  {
+                    "id": "F874BBB5-B63C-46CA-8431-DBE153905610",
+                    "type": "clause",
+                    "value": {
+                      "id": "A58EF1AA-BFA2-4DF4-BA2E-CBC725F3DE2A",
+                      "texts": {
+                        "arabic": {
+                          "value": "كوربوس وتيقوي فادو كومبارو ستولتوس.",
+                          "status": "2FFFCC71-17F9-4D8B-958E-D99BE2366F6B",
+                          "emphasizedWordsIndices": [],
+                          "strongWordsIndices": []
+                        },
+                        "coptic": {
+                          "value": "Ⲁⲅⲛⲟⲥⲕⲟ ⲥⲩⲥⲧⲓⲛⲉⲟ ⲡⲁⲩⲗⲁⲧⲓⲙ ⲡⲁⲩⲗⲁⲧⲓⲙ.",
+                          "status": "2FFFCC71-17F9-4D8B-958E-D99BE2366F6B",
+                          "emphasizedWordsIndices": [],
+                          "strongWordsIndices": []
+                        },
+                        "english": {
+                          "value": "Basium crustulum absum.",
+                          "status": "2FFFCC71-17F9-4D8B-958E-D99BE2366F6B",
+                          "emphasizedWordsIndices": [],
+                          "strongWordsIndices": []
+                        },
+                        "german": {
+                          "value": "Cruciamentum iure inventore.",
+                          "status": "2FFFCC71-17F9-4D8B-958E-D99BE2366F6B",
+                          "emphasizedWordsIndices": [],
+                          "strongWordsIndices": []
+                        }
+                      }
+                    }
+                  }
+                ]
+              ]
+            }
+          ]
+        ]
+      }
+    ]
+  ]
+}
