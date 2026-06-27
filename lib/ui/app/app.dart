@@ -5,6 +5,8 @@ import 'package:pimankagom/states/settings/settings_provider.dart';
 import 'package:pimankagom/themes/contrast/contrast_theme.dart';
 import 'package:pimankagom/themes/palimpsest/palimpsest_theme.dart';
 import 'package:pimankagom/ui/nodes/selector.dart';
+import 'package:pimankagom/ui/shared/window/desktop_window_support.dart';
+import 'package:pimankagom/ui/shared/window/window_title_bar.dart';
 
 class App extends ConsumerWidget {
   const App({super.key});
@@ -42,6 +44,17 @@ class App extends ConsumerWidget {
       themeMode: themeMode,
       theme: useContrastTheme ? contrastLightTheme : palimpsestLightTheme,
       darkTheme: useContrastTheme ? contrastDarkTheme : palimpsestDarkTheme,
+      builder: (context, child) {
+        if (!isDesktopWindowPlatform) {
+          return child ?? const SizedBox.shrink();
+        }
+        return Column(
+          children: [
+            const WindowTitleBar(),
+            Expanded(child: child ?? const SizedBox.shrink()),
+          ],
+        );
+      },
       home: outline.when(
         data: (library) => Selector(node: library),
         loading: () => const Scaffold(body: Center(child: CircularProgressIndicator())),
