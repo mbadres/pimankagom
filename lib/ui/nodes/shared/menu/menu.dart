@@ -3,7 +3,7 @@ import 'package:pimankagom/models/core/node.dart';
 import 'package:pimankagom/ui/nodes/shared/menu/menu_children.dart';
 import 'package:pimankagom/ui/nodes/shared/menu/menu_header.dart';
 import 'package:pimankagom/ui/nodes/shared/navigation/opener.dart';
-import 'package:pimankagom/ui/shared/accent.dart';
+import 'package:pimankagom/ui/shared/accent2.dart';
 import 'package:pimankagom/ui/shared/parchment_background.dart';
 
 class Menu extends StatelessWidget {
@@ -17,7 +17,7 @@ class Menu extends StatelessWidget {
       body: ParchmentBackground(
         child: Column(
           children: [
-            Accent(),
+            Accent2(),
             MenuHeader(node: node),
 
             MenuChildren(node: node),

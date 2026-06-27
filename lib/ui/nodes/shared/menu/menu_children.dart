@@ -10,17 +10,15 @@ class MenuChildren extends StatelessWidget {
 
   @override
   Widget build(BuildContext context) {
+    final children = node.children.expand((group) => group).toList();
+
     return Expanded(
-      child: ListView(
-        children: node.children
-            .expand((group) => group)
-            .map(
-              (child) => Padding(
-                padding: const EdgeInsets.all(spacing),
-                child: MenuTile(node: child),
-              ),
-            )
-            .toList(),
+      child: ListView.builder(
+        itemCount: children.length,
+        itemBuilder: (context, index) => Padding(
+          padding: const EdgeInsets.all(spacing),
+          child: MenuTile(node: children[index]),
+        ),
       ),
     );
   }

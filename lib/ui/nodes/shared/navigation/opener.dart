@@ -1,6 +1,7 @@
 import 'package:flutter/material.dart';
 import 'package:pimankagom/models/core/node.dart';
 import 'package:pimankagom/ui/nodes/shared/navigation/guide.dart';
+import 'package:pimankagom/ui/nodes/shared/navigation/page_transition.dart';
 
 class Opener extends StatelessWidget {
   final Node node;
@@ -10,8 +11,7 @@ class Opener extends StatelessWidget {
   @override
   Widget build(BuildContext context) {
     return FloatingActionButton(
-      onPressed: () =>
-          Navigator.push(context, MaterialPageRoute(builder: (_) => Guide(node: node))),
+      onPressed: () => Navigator.push(context, buildPageRoute((_) => Guide(node: node))),
       child: const Icon(Icons.settings),
     );
   }

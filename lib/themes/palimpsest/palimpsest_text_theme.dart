@@ -3,21 +3,18 @@ import 'package:pimankagom/themes/palimpsest/palimpsest_color_scheme.dart';
 
 const _baseTextStyle = TextStyle(fontFamily: 'Garamond');
 
-final _heading = TextStyle(
-  fontFamily: 'Garamond',
+final _heading = _baseTextStyle.copyWith(
   fontWeight: FontWeight.w600,
   height: 1.08,
   color: palimpsestColorScheme.primary,
 );
 
-final _body = TextStyle(
-  fontFamily: 'Garamond',
+final _body = _baseTextStyle.copyWith(
   fontWeight: FontWeight.w400,
   color: palimpsestColorScheme.onSurface,
 );
 
-final _label = TextStyle(
-  fontFamily: 'Garamond',
+final _label = _baseTextStyle.copyWith(
   fontWeight: FontWeight.w500,
   color: palimpsestColorScheme.onSecondaryContainer,
   fontFeatures: [FontFeature.enable('smcp')],

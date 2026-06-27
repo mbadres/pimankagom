@@ -4,7 +4,10 @@ import 'package:pimankagom/ui/app/app.dart';
 
 void main() {
   testWidgets('app starts without crashing', (WidgetTester tester) async {
-    await tester.pumpWidget(const ProviderScope(child: App()));
-    await tester.pumpAndSettle();
+    await tester.runAsync(() async {
+      await tester.pumpWidget(const ProviderScope(child: App()));
+      await Future.delayed(const Duration(seconds: 1));
+    });
+    await tester.pump();
   });
 }

@@ -12,10 +12,9 @@ import 'package:pimankagom/models/nodes/section.dart';
 import 'package:pimankagom/states/settings/settings_provider.dart';
 import 'package:pimankagom/ui/nodes/clause.dart';
 import 'package:pimankagom/ui/nodes/paragraph.dart';
+import 'package:pimankagom/ui/nodes/shared/chapter_loader/chapter_loader.dart';
 import 'package:pimankagom/ui/nodes/shared/collapsible/collapsible.dart';
 import 'package:pimankagom/ui/nodes/shared/menu/menu.dart';
-import 'package:pimankagom/ui/nodes/shared/pager/pager.dart';
-import 'package:pimankagom/ui/nodes/shared/scroll/scroll2.dart';
 import 'package:pimankagom/ui/nodes/shared/slides/slides.dart';
 
 class Selector extends ConsumerWidget {
@@ -41,7 +40,7 @@ class Selector extends ConsumerWidget {
     } else if (node is Part) {
       return Menu(node: node);
     } else if (node is Chapter) {
-      return isSlide ? Pager(node: node) : Scroll(node: node);
+      return ChapterLoader(node: node, isSlide: isSlide);
     } else if (node is Section) {
       return isSlide ? Slides(node: node) : Collapsible(node: node);
     } else if (node is model.Paragraph) {

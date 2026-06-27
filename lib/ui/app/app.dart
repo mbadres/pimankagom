@@ -1,6 +1,6 @@
 import 'package:flutter/material.dart';
 import 'package:flutter_riverpod/flutter_riverpod.dart';
-import 'package:pimankagom/data/nodes/libraries.dart';
+import 'package:pimankagom/states/content/outline_provider.dart';
 import 'package:pimankagom/states/settings/settings_provider.dart';
 import 'package:pimankagom/themes/contrast/contrast_theme.dart';
 import 'package:pimankagom/themes/palimpsest/palimpsest_theme.dart';
@@ -12,6 +12,7 @@ class App extends ConsumerWidget {
   @override
   Widget build(BuildContext context, WidgetRef ref) {
     final settings = ref.watch(settingsProvider);
+    final outline = ref.watch(outlineProvider);
     final systemHighContrast = MediaQuery.of(context).highContrast;
 
     final nightMode = settings.maybeWhen(
@@ -41,7 +42,11 @@ class App extends ConsumerWidget {
       themeMode: themeMode,
       theme: useContrastTheme ? contrastLightTheme : palimpsestLightTheme,
       darkTheme: useContrastTheme ? contrastDarkTheme : palimpsestDarkTheme,
-      home: const Selector(node: ID_EE2DD31D_C3AC_4ED1_8730_D9AE3A3E5ED1),
+      home: outline.when(
+        data: (library) => Selector(node: library),
+        loading: () => const Scaffold(body: Center(child: CircularProgressIndicator())),
+        error: (error, stackTrace) => Scaffold(body: Center(child: Text('$error'))),
+      ),
       // debugShowCheckedModeBanner: false,
     );
   }

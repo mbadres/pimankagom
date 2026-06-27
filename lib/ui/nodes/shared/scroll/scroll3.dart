@@ -14,12 +14,14 @@ class Scroll extends StatelessWidget {
     final sections = node.children.expand((group) => group).toList();
 
     return Scaffold(
-      body: ParchmentBackground(
-        child: ListView.builder(
-          itemCount: sections.length,
-          itemBuilder: (context, index) => Padding(
-            padding: const EdgeInsets.symmetric(vertical: 2 * spacing, horizontal: spacing),
-            child: Selector(node: sections[index]),
+      body: SafeArea(
+        child: ParchmentBackground(
+          child: ListView.builder(
+            itemCount: sections.length,
+            itemBuilder: (context, index) => Padding(
+              padding: const EdgeInsets.symmetric(vertical: 2 * spacing, horizontal: spacing),
+              child: Selector(node: sections[index]),
+            ),
           ),
         ),
       ),
