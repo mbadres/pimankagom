@@ -40,7 +40,6 @@ class App extends ConsumerWidget {
     };
 
     return MaterialApp(
-      title: 'Flutter Demo',
       themeMode: themeMode,
       theme: useContrastTheme ? contrastLightTheme : palimpsestLightTheme,
       darkTheme: useContrastTheme ? contrastDarkTheme : palimpsestDarkTheme,
